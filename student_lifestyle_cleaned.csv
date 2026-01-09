@@ -1,0 +1,761 @@
+Student ID,Age,Gender,Academic Performance (GPA),Study Hours Per Week,Social Media Usage (Hours per day),Sleep Duration (Hours per night),Physical Exercise (Hours per week),Family Support,Financial Stress,Peer Pressure,Relationship Stress,Mental Stress Level,Counseling Attendance,Diet Quality,Stress Coping Mechanisms,Cognitive Distortions,Family Mental Health History,Medical Condition,Substance Use
+802-17-3671,22,Female,2.61,37.0,0.5,7.5,0.0,3,2,2,1,4,No,3,"Exercise, Meditation",5,No,Yes,1
+871-12-8572,21,Female,2.96,31.0,2.6,7.0,0.0,3,1,1,5,5,No,3,"Exercise, Journaling",1,Yes,No,2
+495-13-2672,22,Female,4.0,23.0,6.4,6.1,0.3,2,4,2,2,5,No,5,"Family Interaction, Journaling",4,Yes,Yes,5
+365-77-2496,24,Male,2.85,15.0,2.0,7.1,4.5,2,3,3,5,6,No,5,"Meditation, Family Interaction",2,Yes,No,5
+664-76-5622,21,Male,3.47,21.0,3.1,7.7,1.3,5,1,2,3,4,Yes,2,"Exercise, Family Interaction",4,Yes,No,5
+386-91-7629,21,Female,2.55,36.0,4.9,4.3,5.5,2,1,1,1,4,Yes,4,"Journaling, Meditation",4,Yes,No,3
+740-27-0902,24,Female,2.88,44.0,5.6,8.2,4.1,2,2,1,1,5,Yes,1,"Meditation, Exercise",2,Yes,No,2
+193-03-0467,23,Male,3.79,40.0,3.5,6.4,0.0,2,4,3,4,7,No,1,"Substance Use, Excessive Screen Time",5,No,Yes,5
+195-29-3231,20,Female,2.59,20.0,2.8,7.3,6.0,4,3,1,1,3,No,5,"Meditation, Journaling",5,No,No,5
+504-53-5581,22,Male,3.81,14.0,6.8,8.2,6.4,2,4,3,5,6,No,5,"Family Interaction, Journaling",5,Yes,Yes,2
+282-69-0356,20,Male,3.25,26.0,7.5,5.2,1.0,1,2,3,3,6,No,2,"Meditation, Journaling",3,No,Yes,1
+803-83-7625,20,Male,2.62,7.0,6.0,5.9,5.3,1,5,1,2,6,No,4,"Meditation, Family Interaction",5,Yes,Yes,5
+249-06-6401,21,Female,3.22,28.0,4.2,6.5,1.4,5,1,5,1,5,Yes,2,"Family Interaction, Journaling",2,Yes,No,1
+713-55-3396,18,Female,3.39,24.0,2.4,5.9,4.3,4,3,3,2,5,Yes,4,"Exercise, Family Interaction",3,No,No,5
+879-05-6220,18,Male,3.21,20.0,2.3,8.9,0.2,1,5,1,1,6,No,1,"Journaling, Meditation",5,Yes,No,4
+355-95-4355,20,Female,2.11,9.0,5.0,5.8,0.0,4,2,5,3,6,No,2,"Journaling, Meditation",3,Yes,No,3
+658-67-3956,19,Female,2.54,30.0,4.8,6.1,2.9,4,4,3,5,6,No,5,"Meditation, Exercise",2,No,Yes,5
+161-68-2043,22,Female,2.78,20.0,6.8,7.0,3.6,5,1,5,3,5,No,2,"Journaling, Family Interaction",5,No,No,4
+438-56-6737,19,Male,2.86,13.0,5.3,5.4,2.8,4,3,4,2,6,Yes,2,"Meditation, Exercise",1,No,No,2
+489-39-4380,18,Female,3.21,0.0,1.0,6.3,0.4,2,5,4,1,7,No,1,"Isolation, Overthinking",2,Yes,No,4
+375-79-2097,24,Female,2.99,25.0,6.1,7.2,2.8,4,5,5,2,6,No,5,"Exercise, Meditation",4,Yes,No,2
+861-60-5151,21,Agender,2.23,43.0,2.0,6.4,4.8,5,1,3,5,4,Yes,5,"Journaling, Exercise",4,Yes,No,5
+629-99-0767,21,Male,3.09,42.0,3.2,6.7,3.9,5,4,1,3,5,No,3,"Journaling, Family Interaction",2,No,Yes,2
+115-75-7195,18,Agender,3.21,20.0,4.5,6.2,4.5,5,2,2,2,4,No,3,"Exercise, Family Interaction",4,Yes,Yes,4
+589-36-1147,20,Male,3.18,19.0,8.0,5.0,2.0,1,4,1,2,6,Yes,3,"Exercise, Journaling",2,Yes,Yes,3
+517-61-7254,21,Female,3.44,30.0,10.0,7.2,7.5,2,4,2,5,7,Yes,1,"Substance Use, Overthinking",1,No,Yes,1
+373-92-3214,19,Female,3.32,15.0,5.2,8.9,0.5,1,4,2,1,6,No,2,"Meditation, Journaling",2,No,No,1
+148-22-9008,22,Female,3.13,28.0,3.6,6.8,5.5,3,1,3,2,4,No,5,"Journaling, Exercise",5,Yes,No,3
+270-48-3167,20,Male,2.86,33.0,5.1,7.1,7.5,2,1,5,5,6,No,5,"Family Interaction, Exercise",5,No,Yes,1
+594-28-4204,20,Bigender,2.07,37.0,5.8,7.6,5.4,4,2,1,1,4,No,2,"Journaling, Meditation",3,Yes,No,5
+631-14-1769,20,Male,3.11,24.0,3.4,5.3,3.4,5,4,5,1,5,No,5,"Meditation, Family Interaction",4,Yes,Yes,5
+832-04-3592,25,Male,3.0,23.0,7.6,8.8,2.4,3,1,4,3,6,Yes,2,"Journaling, Family Interaction",4,No,No,4
+810-52-2018,21,Female,3.04,16.0,4.5,7.0,7.1,2,2,3,5,7,Yes,1,"Isolation, Substance Use",2,Yes,No,4
+230-07-5794,19,Female,2.26,17.0,5.0,8.8,0.0,1,2,3,1,6,No,1,"Exercise, Meditation",4,Yes,Yes,2
+777-52-9937,23,Female,2.36,23.0,5.3,5.9,1.1,5,4,4,3,6,No,1,"Family Interaction, Journaling",5,Yes,Yes,4
+505-69-0221,19,Female,3.43,29.0,4.8,9.0,2.8,1,3,1,4,6,No,2,"Journaling, Exercise",1,Yes,No,5
+204-29-1694,21,Male,2.88,34.0,5.7,7.7,7.7,2,4,4,5,8,No,2,"Substance Use, Isolation",2,Yes,Yes,4
+535-17-9130,18,Male,3.24,17.0,2.8,7.5,5.1,2,3,1,4,5,Yes,4,"Meditation, Journaling",4,No,Yes,1
+403-92-9632,18,Male,2.91,40.0,2.9,7.1,1.1,3,2,2,1,4,No,5,"Journaling, Exercise",5,Yes,No,2
+295-62-4300,21,Male,2.91,22.0,1.8,6.5,3.1,4,1,3,5,5,No,5,"Meditation, Exercise",3,Yes,No,2
+408-46-2153,22,Male,3.37,25.0,4.9,8.2,2.2,1,5,1,3,6,Yes,4,"Journaling, Meditation",4,No,No,5
+292-85-0963,21,Male,2.64,18.0,5.6,7.0,1.9,3,2,5,1,5,No,4,"Exercise, Meditation",1,Yes,Yes,4
+831-71-1472,21,Male,2.95,1.0,4.9,4.4,6.9,5,1,5,5,6,Yes,1,"Journaling, Meditation",1,Yes,No,1
+742-17-8756,20,Male,2.67,34.0,7.3,5.5,0.0,4,2,3,5,5,No,4,"Family Interaction, Exercise",4,No,No,4
+209-21-5372,18,Male,2.68,32.0,4.0,6.6,8.8,3,4,4,4,7,No,2,"Excessive Screen Time, Substance Use",4,No,Yes,3
+288-28-5340,20,Male,2.75,22.0,5.3,7.2,6.5,1,3,4,1,6,Yes,3,"Exercise, Journaling",5,No,No,4
+532-53-7106,20,Male,3.01,26.0,1.8,6.7,7.3,2,2,1,3,5,No,2,"Exercise, Journaling",4,Yes,No,5
+407-39-5818,23,Genderfluid,2.66,30.0,3.2,8.3,2.6,5,1,4,3,4,No,4,"Exercise, Journaling",3,No,Yes,4
+740-68-1900,22,Female,3.53,9.0,5.4,4.5,3.6,1,4,3,1,5,No,5,"Exercise, Meditation",5,No,No,2
+100-42-4509,18,Male,2.45,20.0,5.7,7.0,0.0,4,5,1,1,5,Yes,2,"Meditation, Journaling",2,Yes,No,1
+777-29-7370,22,Female,2.81,33.0,3.4,4.6,2.4,4,4,2,2,4,Yes,5,"Exercise, Meditation",3,Yes,No,5
+117-12-6960,20,Agender,2.68,12.0,3.9,7.7,5.5,2,3,4,4,7,No,2,"Substance Use, Overthinking",5,Yes,Yes,3
+866-68-4346,20,Female,3.62,28.0,1.0,6.7,7.9,2,4,4,1,5,No,5,"Exercise, Journaling",5,Yes,No,1
+687-83-4719,22,Male,3.0,11.0,3.3,7.3,0.7,5,5,1,1,5,No,2,"Family Interaction, Meditation",1,Yes,No,1
+736-72-0270,23,Female,3.42,30.0,5.8,5.8,2.9,5,1,5,2,4,No,5,"Exercise, Family Interaction",5,No,No,2
+185-53-6544,23,Male,2.16,25.0,5.2,8.3,3.5,2,2,4,2,6,No,3,"Exercise, Journaling",3,Yes,Yes,2
+483-60-4480,19,Female,3.03,9.0,5.0,8.1,0.0,2,3,3,5,7,Yes,1,"Substance Use, Overthinking",4,No,No,2
+292-04-4209,20,Female,3.34,37.0,4.1,7.5,5.8,4,5,4,3,7,Yes,2,"Substance Use, Excessive Screen Time",3,No,Yes,5
+383-42-5117,22,Male,2.94,18.0,4.0,6.6,1.8,2,3,2,4,6,No,3,"Family Interaction, Meditation",2,No,Yes,4
+588-56-7179,23,Female,3.43,17.0,2.7,7.5,3.4,3,4,4,5,8,No,1,"Excessive Screen Time, Isolation",5,Yes,Yes,1
+339-20-6030,20,Female,2.64,27.0,5.4,6.0,2.6,1,3,5,1,7,No,2,"Excessive Screen Time, Isolation",5,No,No,4
+691-94-2434,21,Male,3.6,36.0,4.8,7.8,1.6,2,5,4,2,7,No,3,"Overthinking, Excessive Screen Time",5,No,No,4
+683-65-1968,19,Male,4.0,15.0,5.0,8.8,4.0,5,2,1,3,4,No,3,"Meditation, Exercise",5,No,Yes,2
+387-67-7202,19,Female,2.72,26.0,2.9,8.1,3.4,3,2,4,5,6,Yes,3,"Family Interaction, Exercise",1,No,Yes,4
+209-32-8628,23,Male,2.68,29.0,0.0,5.9,2.9,5,3,5,3,5,No,4,"Exercise, Meditation",1,No,Yes,1
+850-13-5324,24,Male,3.63,32.0,6.2,7.2,1.8,3,1,1,2,3,No,5,"Family Interaction, Meditation",4,No,Yes,1
+178-03-0028,21,Female,3.69,27.0,3.0,5.2,5.0,2,3,3,5,7,Yes,1,"Substance Use, Overthinking",5,Yes,No,3
+800-36-7705,23,Female,2.64,21.0,2.3,7.5,9.0,1,4,1,5,6,No,5,"Exercise, Journaling",2,Yes,No,5
+367-56-4708,22,Female,2.69,17.0,5.4,7.3,4.4,5,2,2,3,4,Yes,5,"Journaling, Meditation",4,No,No,4
+297-69-4479,20,Male,2.76,26.0,3.2,4.6,7.0,3,2,1,2,4,No,5,"Family Interaction, Journaling",5,No,Yes,5
+592-23-4557,22,Bigender,2.23,14.0,6.1,5.4,0.0,4,2,3,1,4,No,3,"Family Interaction, Journaling",1,Yes,Yes,5
+252-89-3971,24,Male,2.44,0.0,5.2,6.5,4.5,2,1,4,5,6,No,5,"Journaling, Meditation",2,Yes,Yes,5
+811-27-2129,21,Male,2.4,29.0,5.4,6.4,0.7,1,1,1,1,4,No,4,"Meditation, Journaling",4,Yes,No,5
+747-47-2831,24,Agender,2.52,34.0,1.3,5.3,0.0,2,5,1,2,6,No,2,"Meditation, Exercise",2,Yes,Yes,1
+526-78-3751,18,Male,2.88,1.0,6.4,7.3,1.8,4,3,1,5,5,No,3,"Exercise, Meditation",5,No,No,4
+481-45-3887,23,Female,3.02,15.0,4.5,7.1,7.6,1,3,1,5,7,No,1,"Excessive Screen Time, Substance Use",3,No,No,3
+751-18-9499,21,Female,3.68,31.0,3.3,6.6,6.9,4,4,3,1,5,Yes,2,"Exercise, Family Interaction",2,No,Yes,5
+124-71-1553,20,Male,2.4,46.0,4.3,5.9,4.7,2,2,5,4,7,Yes,2,"Isolation, Substance Use",2,No,No,3
+214-58-4982,21,Agender,3.39,25.0,0.4,8.1,0.0,3,1,5,1,5,No,2,"Journaling, Meditation",1,No,No,1
+474-66-6263,18,Male,2.79,18.0,4.8,8.8,3.4,2,4,1,1,4,No,5,"Meditation, Family Interaction",5,Yes,Yes,1
+204-16-7799,21,Female,2.88,23.0,1.9,6.2,4.9,2,4,3,4,6,No,5,"Meditation, Journaling",2,No,Yes,2
+366-05-7001,22,Female,3.24,39.0,1.3,6.1,4.5,2,1,3,2,5,Yes,3,"Journaling, Family Interaction",5,No,No,5
+293-94-5530,24,Polygender,2.34,19.0,1.0,7.4,0.0,5,3,1,2,3,No,5,"Family Interaction, Exercise",1,No,Yes,2
+667-21-2334,20,Female,3.09,17.0,6.2,6.4,1.3,4,2,2,5,5,Yes,5,"Meditation, Journaling",5,Yes,Yes,3
+652-50-6948,19,Male,2.98,20.0,2.7,6.6,3.8,4,3,1,3,4,No,5,"Journaling, Family Interaction",1,Yes,No,4
+429-54-5963,20,Bigender,3.15,15.0,7.1,7.7,5.6,4,4,2,3,5,Yes,3,"Exercise, Family Interaction",1,Yes,No,2
+821-85-3152,23,Male,3.04,26.0,2.9,4.5,0.0,5,2,1,5,5,No,3,"Journaling, Meditation",4,No,No,1
+767-02-0514,22,Female,4.0,41.0,0.6,8.4,3.5,3,5,2,3,6,No,4,"Meditation, Family Interaction",5,Yes,Yes,5
+135-19-3886,20,Female,2.58,28.0,1.8,6.9,4.4,2,4,2,1,5,No,4,"Journaling, Meditation",3,No,Yes,3
+124-45-0187,22,Female,2.63,22.0,6.5,6.3,6.5,3,3,1,1,4,Yes,4,"Journaling, Family Interaction",4,Yes,No,1
+508-77-1604,21,Female,2.59,22.0,3.7,6.7,6.1,5,3,2,4,5,No,4,"Exercise, Journaling",1,No,No,4
+631-57-6187,23,Male,2.62,9.0,2.9,6.8,5.7,4,3,4,4,6,No,2,"Journaling, Family Interaction",3,Yes,Yes,5
+729-12-6141,20,Male,2.58,34.0,4.3,4.7,1.6,2,1,5,5,7,Yes,2,"Excessive Screen Time, Isolation",2,No,No,4
+609-64-7643,20,Female,3.49,24.0,5.0,8.6,0.0,1,4,3,5,7,Yes,4,"Overthinking, Excessive Screen Time",2,No,No,4
+730-87-4838,20,Male,3.61,23.0,6.2,6.8,2.8,1,2,2,5,6,No,4,"Meditation, Journaling",4,Yes,No,5
+838-92-9671,18,Female,2.61,57.0,6.9,7.3,7.0,3,3,2,1,5,No,1,"Meditation, Journaling",3,Yes,Yes,5
+250-73-3043,22,Male,2.48,28.0,3.3,7.9,8.2,4,3,3,3,6,No,2,"Meditation, Exercise",5,No,No,4
+755-25-6365,22,Female,3.14,17.0,1.3,5.6,6.1,1,1,2,5,7,Yes,1,"Substance Use, Overthinking",3,Yes,No,3
+392-82-0634,21,Female,2.62,21.0,3.2,7.4,5.3,3,2,3,5,7,No,1,"Isolation, Overthinking",4,No,No,5
+553-73-9451,21,Female,3.22,36.0,4.5,6.5,5.1,5,4,1,1,3,No,5,"Exercise, Journaling",5,No,No,1
+213-22-7971,18,Male,3.0,26.0,2.1,7.8,2.3,3,5,4,1,6,Yes,3,"Meditation, Exercise",5,No,No,2
+620-60-6101,20,Female,2.14,11.0,2.1,4.2,3.6,3,1,4,1,5,No,2,"Family Interaction, Exercise",2,No,Yes,3
+219-05-2185,20,Male,3.67,34.0,4.7,6.7,9.0,3,4,5,3,6,No,4,"Exercise, Family Interaction",3,No,Yes,5
+332-05-7324,19,Male,3.8,18.0,3.9,6.1,1.2,2,5,2,5,7,Yes,4,"Substance Use, Isolation",5,No,Yes,5
+138-22-1341,21,Female,2.59,44.0,4.1,7.3,8.8,3,3,5,2,6,No,3,"Journaling, Exercise",4,No,Yes,3
+347-81-9759,22,Bigender,2.71,36.0,2.5,7.4,3.0,3,3,1,2,5,Yes,2,"Exercise, Family Interaction",2,Yes,Yes,2
+500-75-5507,25,Female,3.04,21.0,3.5,6.0,8.0,2,2,4,5,6,No,4,"Meditation, Exercise",5,Yes,No,4
+735-88-4515,21,Male,3.07,38.0,2.2,5.9,0.0,2,5,1,5,6,No,4,"Meditation, Family Interaction",3,No,No,1
+830-93-7957,22,Female,3.23,26.0,5.8,6.7,5.8,5,3,1,5,4,Yes,5,"Exercise, Journaling",2,No,Yes,5
+629-52-7023,21,Male,3.91,34.0,6.1,5.7,1.8,4,3,2,5,6,No,1,"Meditation, Family Interaction",3,Yes,Yes,2
+400-21-6724,18,Male,2.81,30.0,0.3,7.8,0.0,1,2,1,3,5,Yes,4,"Exercise, Family Interaction",3,Yes,No,1
+479-91-6861,21,Male,2.5,17.0,2.1,6.4,4.7,1,4,4,2,7,No,2,"Substance Use, Isolation",3,Yes,No,3
+512-53-1330,21,Female,2.21,19.0,1.0,3.3,7.0,3,3,5,4,7,Yes,3,"Excessive Screen Time, Overthinking",2,No,Yes,5
+211-15-8624,26,Female,2.53,35.0,2.7,6.4,1.5,5,1,4,2,4,No,5,"Meditation, Journaling",5,Yes,No,4
+586-54-6715,21,Female,2.88,22.0,3.8,5.6,0.0,3,1,2,2,5,Yes,2,"Meditation, Exercise",1,No,No,3
+163-09-3422,22,Male,3.8,21.0,1.1,4.8,3.7,1,4,4,1,6,Yes,5,"Family Interaction, Journaling",5,No,No,5
+596-04-1416,21,Male,2.64,15.0,2.2,5.3,3.7,2,5,3,5,8,No,1,"Substance Use, Overthinking",2,Yes,Yes,2
+638-52-2815,19,Female,3.01,29.0,2.0,6.9,5.6,4,2,5,5,6,Yes,4,"Meditation, Exercise",1,Yes,No,1
+217-66-0052,23,Female,2.89,46.0,4.4,8.4,6.8,5,1,3,5,5,No,2,"Family Interaction, Meditation",1,No,Yes,1
+276-11-5486,23,Female,3.49,14.0,4.1,7.2,3.8,2,1,3,1,5,No,3,"Journaling, Meditation",1,No,No,5
+786-72-6825,23,Female,4.0,25.0,2.6,6.1,9.6,4,4,2,3,6,No,1,"Journaling, Family Interaction",4,No,Yes,3
+618-46-7437,19,Male,2.63,39.0,4.4,7.3,4.7,5,5,1,3,6,No,1,"Family Interaction, Meditation",2,No,No,4
+447-34-8357,24,Female,2.66,24.0,2.9,6.2,3.0,5,5,3,4,5,No,5,"Family Interaction, Journaling",4,No,No,2
+581-07-0225,18,Female,3.42,30.0,3.5,6.0,0.0,1,4,4,3,8,No,1,"Isolation, Overthinking",1,Yes,Yes,5
+470-08-9695,22,Bigender,3.24,14.0,7.3,5.4,3.2,2,1,1,3,5,No,2,"Family Interaction, Journaling",4,No,Yes,2
+432-35-6566,25,Male,3.82,29.0,6.7,4.7,3.0,5,2,4,5,5,No,5,"Family Interaction, Meditation",4,Yes,No,1
+840-63-7764,19,Non-binary,3.19,23.0,1.4,6.3,6.9,5,1,4,2,5,No,1,"Family Interaction, Meditation",2,No,No,4
+768-78-3237,20,Non-binary,2.72,35.0,5.7,7.0,5.4,4,5,1,3,5,No,3,"Journaling, Exercise",3,No,Yes,2
+102-51-9968,21,Female,3.2,37.0,5.6,6.7,0.5,1,1,1,3,5,Yes,2,"Exercise, Meditation",4,Yes,No,5
+501-67-5697,20,Female,3.45,51.0,1.7,6.3,4.5,3,2,4,1,5,Yes,3,"Family Interaction, Meditation",4,Yes,No,4
+819-14-2694,18,Female,3.31,31.0,5.6,5.7,6.0,1,3,2,4,6,No,3,"Meditation, Family Interaction",1,Yes,No,3
+380-99-9542,21,Agender,3.15,28.0,7.1,7.5,8.6,3,1,5,1,4,Yes,5,"Meditation, Journaling",1,Yes,Yes,5
+429-63-3333,19,Male,3.43,27.0,1.8,5.2,6.7,2,4,5,5,7,Yes,4,"Substance Use, Excessive Screen Time",1,No,No,2
+605-97-7460,22,Female,3.48,21.0,2.2,7.7,6.3,2,3,2,2,5,No,5,"Exercise, Meditation",5,Yes,Yes,4
+156-59-9054,19,Male,3.59,28.0,6.0,5.6,4.2,5,4,1,4,5,Yes,2,"Family Interaction, Journaling",4,No,No,5
+567-20-0671,24,Female,3.22,22.0,4.5,5.9,5.2,2,4,4,1,6,Yes,2,"Journaling, Meditation",1,Yes,No,4
+115-05-2082,19,Male,2.82,27.0,5.1,5.0,7.7,5,4,5,3,5,No,5,"Meditation, Journaling",2,Yes,No,4
+648-32-3365,20,Female,2.97,38.0,4.7,6.2,0.0,1,1,4,3,6,No,4,"Meditation, Exercise",5,Yes,Yes,4
+747-92-3547,23,Male,3.5,15.0,4.8,8.0,3.0,2,5,2,4,6,No,5,"Meditation, Exercise",3,Yes,No,2
+430-08-1444,19,Female,2.49,36.0,1.3,7.4,1.7,1,3,4,3,7,No,2,"Substance Use, Overthinking",4,Yes,Yes,5
+311-25-5374,21,Male,3.08,38.0,6.1,8.0,5.1,1,2,2,1,5,No,4,"Meditation, Family Interaction",4,Yes,No,1
+508-61-1958,24,Female,2.7,24.0,6.3,7.4,7.7,2,5,1,1,6,No,2,"Journaling, Meditation",2,No,Yes,1
+311-01-4979,18,Male,2.91,4.0,3.5,5.5,2.2,1,1,2,3,5,Yes,4,"Exercise, Family Interaction",3,No,Yes,2
+357-60-6383,21,Male,3.54,19.0,3.9,6.4,0.0,2,4,2,3,6,No,4,"Exercise, Meditation",3,No,Yes,2
+582-66-4545,22,Male,3.0,38.0,0.9,5.9,2.8,2,2,5,5,6,Yes,5,"Family Interaction, Journaling",5,No,Yes,4
+857-78-9982,23,Female,2.92,25.0,5.0,8.4,6.7,2,3,4,2,5,No,5,"Family Interaction, Meditation",4,Yes,No,5
+361-01-5382,19,Female,2.22,15.0,5.1,5.4,5.6,3,5,5,4,7,Yes,5,"Overthinking, Substance Use",1,Yes,No,5
+655-35-0977,18,Male,3.27,20.0,3.9,7.9,5.3,1,5,3,1,6,No,4,"Meditation, Family Interaction",2,No,No,3
+704-27-3229,22,Female,3.22,33.0,6.2,7.9,3.2,4,2,2,4,5,No,4,"Meditation, Family Interaction",2,No,No,3
+630-45-3543,22,Male,3.98,30.0,3.3,9.0,0.2,2,1,3,5,6,No,2,"Family Interaction, Meditation",2,Yes,No,1
+143-64-7699,22,Female,2.75,23.0,5.1,6.3,5.5,1,3,5,1,6,No,3,"Exercise, Family Interaction",2,No,No,3
+380-01-5180,22,Female,3.01,21.0,2.0,7.7,1.5,5,2,4,5,5,Yes,5,"Meditation, Family Interaction",1,No,Yes,3
+358-27-6734,20,Male,3.02,21.0,4.0,9.5,10.6,2,4,5,5,8,Yes,2,"Excessive Screen Time, Substance Use",1,No,Yes,1
+763-50-9563,21,Male,3.69,16.0,3.7,6.1,5.7,2,3,4,3,7,Yes,2,"Isolation, Overthinking",5,Yes,No,1
+679-91-0440,22,Male,2.85,41.0,4.5,5.0,2.3,4,5,4,4,7,Yes,1,"Isolation, Substance Use",4,Yes,Yes,3
+686-76-8831,20,Female,3.04,22.0,3.3,4.5,2.2,3,2,1,4,4,No,5,"Exercise, Family Interaction",1,No,Yes,5
+327-52-9753,25,Female,3.2,37.0,3.7,7.7,3.7,3,5,2,3,6,Yes,2,"Meditation, Family Interaction",5,No,No,3
+469-83-1014,22,Male,2.99,40.0,5.7,4.5,3.3,2,5,5,4,8,No,1,"Overthinking, Excessive Screen Time",3,No,Yes,4
+730-70-1674,19,Male,2.68,35.0,3.1,6.4,7.4,1,5,4,3,7,No,5,"Overthinking, Substance Use",4,Yes,No,4
+779-26-7175,22,Female,3.0,21.0,0.8,7.3,4.6,5,1,5,1,4,No,4,"Family Interaction, Journaling",1,No,Yes,4
+817-11-4511,19,Female,3.44,29.0,7.5,7.0,1.8,5,5,5,5,8,Yes,1,"Isolation, Substance Use",3,No,Yes,2
+761-08-6341,23,Male,2.39,25.0,6.8,7.3,9.7,1,4,4,5,7,Yes,4,"Substance Use, Isolation",5,No,Yes,4
+169-56-0960,23,Male,2.97,16.0,1.4,7.1,4.1,2,4,3,4,7,Yes,3,"Substance Use, Overthinking",1,No,No,5
+616-12-8556,19,Male,2.55,28.0,5.4,8.3,6.3,5,3,2,2,4,No,3,"Journaling, Exercise",1,No,No,2
+858-37-7984,23,Bigender,3.5,13.0,3.0,5.7,2.2,3,5,2,5,7,Yes,3,"Overthinking, Isolation",3,No,Yes,2
+235-80-3727,22,Female,2.14,37.0,4.5,6.0,5.1,1,5,1,3,6,Yes,3,"Meditation, Family Interaction",1,Yes,Yes,4
+217-43-4810,23,Female,2.62,20.0,4.6,5.9,4.9,4,2,1,2,4,No,2,"Journaling, Meditation",2,No,No,3
+588-69-4170,25,Female,3.09,27.0,3.5,7.8,0.0,2,1,1,2,4,Yes,3,"Family Interaction, Exercise",1,Yes,Yes,1
+224-13-7621,21,Female,3.68,28.0,2.4,7.9,10.0,1,3,2,5,7,Yes,2,"Isolation, Overthinking",4,Yes,No,3
+754-33-1593,19,Genderqueer,2.87,22.0,2.6,7.3,7.9,5,5,3,5,7,No,2,"Isolation, Excessive Screen Time",3,No,No,3
+202-42-0001,19,Female,2.62,31.0,2.2,8.2,2.8,2,2,2,5,5,No,5,"Exercise, Journaling",4,No,No,2
+891-44-0532,19,Female,3.84,20.0,2.3,5.4,0.7,3,1,2,3,5,Yes,2,"Journaling, Exercise",5,No,Yes,2
+489-83-9210,21,Male,2.18,34.0,3.9,8.8,5.0,2,3,2,2,6,Yes,2,"Journaling, Exercise",4,Yes,Yes,2
+505-67-4877,22,Female,1.8,12.0,2.6,8.6,4.3,2,3,2,4,6,No,3,"Exercise, Family Interaction",2,Yes,Yes,5
+490-85-9933,22,Male,3.12,26.0,5.4,7.7,5.1,3,5,3,3,7,No,2,"Overthinking, Excessive Screen Time",2,No,No,5
+149-82-1193,23,Polygender,2.65,44.0,7.0,8.9,4.6,3,3,1,1,4,No,4,"Family Interaction, Exercise",4,No,Yes,1
+449-71-1303,21,Female,2.39,15.0,2.8,4.8,5.5,2,2,5,5,7,No,3,"Excessive Screen Time, Overthinking",5,Yes,Yes,2
+855-81-6070,24,Male,3.25,18.0,4.5,6.2,8.3,3,3,1,2,5,No,1,"Meditation, Journaling",1,Yes,No,4
+538-54-0209,20,Female,3.02,30.0,5.0,5.9,5.7,1,4,1,3,6,No,3,"Family Interaction, Exercise",2,No,No,2
+785-18-1267,26,Female,2.62,27.0,4.9,7.7,0.9,3,2,5,1,6,No,2,"Journaling, Family Interaction",4,Yes,No,5
+315-14-3308,22,Female,2.26,29.0,4.2,5.5,8.1,3,1,2,3,4,No,4,"Family Interaction, Journaling",4,Yes,No,2
+572-36-3852,19,Male,3.34,30.0,5.5,7.7,8.9,2,1,3,3,5,No,3,"Journaling, Meditation",4,Yes,No,5
+192-13-3343,19,Male,3.23,31.0,5.0,8.4,13.5,1,5,3,4,7,Yes,4,"Overthinking, Isolation",1,No,No,2
+247-09-1709,22,Female,2.85,36.0,1.5,7.6,0.6,4,5,1,4,6,No,1,"Exercise, Meditation",3,No,Yes,4
+638-37-6479,21,Male,3.82,29.0,5.7,7.1,4.7,4,4,5,3,7,Yes,1,"Substance Use, Excessive Screen Time",5,No,Yes,1
+585-40-0453,22,Female,2.36,23.0,5.8,5.6,0.0,5,1,4,1,3,Yes,5,"Exercise, Meditation",3,Yes,No,4
+834-48-2185,22,Female,2.14,32.0,2.5,5.8,5.7,3,1,2,2,4,No,5,"Exercise, Meditation",5,Yes,No,5
+430-98-7843,21,Female,2.55,44.0,4.1,8.3,2.4,3,1,1,2,4,No,3,"Journaling, Family Interaction",5,Yes,No,3
+891-94-6731,19,Female,2.88,24.0,5.4,7.7,9.8,1,1,3,5,6,Yes,5,"Journaling, Exercise",4,No,Yes,4
+792-17-2824,18,Male,3.02,15.0,3.6,6.8,1.7,4,3,5,5,6,No,4,"Exercise, Family Interaction",2,Yes,No,2
+174-38-8655,20,Female,2.78,36.0,6.1,6.3,0.0,5,2,5,2,4,No,5,"Exercise, Journaling",4,No,Yes,1
+307-28-5129,23,Female,3.08,24.0,8.7,4.4,2.6,1,2,1,3,5,Yes,4,"Meditation, Family Interaction",1,Yes,No,2
+781-32-3795,21,Female,2.27,3.0,2.4,5.5,0.0,3,4,4,3,6,No,5,"Family Interaction, Meditation",5,Yes,Yes,2
+628-54-3016,19,Male,3.62,33.0,1.2,9.1,6.3,4,3,3,4,5,No,5,"Journaling, Family Interaction",2,Yes,Yes,4
+751-44-1313,21,Female,2.86,20.0,4.6,5.3,0.0,5,1,1,4,3,No,5,"Exercise, Meditation",5,No,No,1
+663-29-0123,22,Male,3.46,24.0,5.4,7.0,4.1,2,1,4,5,7,No,2,"Isolation, Overthinking",5,No,No,3
+667-64-2830,19,Male,3.07,28.0,3.5,8.0,0.0,4,5,5,2,7,Yes,2,"Excessive Screen Time, Substance Use",4,Yes,No,2
+482-19-3391,21,Male,3.13,27.0,6.9,5.3,3.0,5,5,2,3,5,No,5,"Journaling, Exercise",2,Yes,No,1
+725-20-8354,21,Female,3.18,32.0,1.3,7.0,8.9,1,4,3,2,6,No,4,"Journaling, Family Interaction",2,No,No,3
+381-57-2885,19,Genderqueer,3.12,21.0,5.4,7.9,5.1,2,1,3,1,5,No,3,"Meditation, Family Interaction",5,Yes,No,2
+415-38-9662,22,Female,3.22,30.0,2.8,6.8,1.4,5,4,4,2,6,No,1,"Meditation, Exercise",2,Yes,Yes,1
+513-29-6152,22,Male,3.56,22.0,7.4,10.0,3.9,5,3,1,1,4,No,2,"Journaling, Meditation",2,Yes,Yes,4
+788-65-2738,23,Male,3.0,32.0,8.0,4.8,4.1,3,2,5,4,6,No,5,"Family Interaction, Journaling",4,No,Yes,2
+565-85-9492,23,Male,3.25,31.0,2.5,8.1,5.4,4,1,4,4,6,No,1,"Family Interaction, Exercise",3,No,No,2
+543-17-1815,18,Bigender,2.86,16.0,2.9,6.6,0.0,3,3,2,5,6,Yes,2,"Family Interaction, Meditation",1,Yes,Yes,1
+463-90-8517,19,Male,3.62,36.0,5.7,7.7,5.8,2,1,2,2,5,Yes,3,"Journaling, Exercise",3,No,No,2
+764-31-6447,22,Female,2.56,20.0,3.2,7.3,0.0,5,5,2,2,5,Yes,4,"Meditation, Journaling",2,Yes,No,3
+462-74-2046,22,Male,3.8,33.0,3.9,5.9,2.1,3,4,4,1,5,No,5,"Family Interaction, Meditation",5,No,Yes,2
+694-39-2032,22,Male,2.88,29.0,4.1,7.1,2.5,4,5,5,4,7,Yes,3,"Excessive Screen Time, Overthinking",1,Yes,No,5
+655-55-0209,29,Female,2.18,43.0,0.2,4.6,5.9,2,2,3,1,5,No,2,"Meditation, Journaling",1,Yes,No,3
+127-94-0301,22,Bigender,2.96,23.0,4.0,7.5,4.1,1,5,1,4,6,No,5,"Meditation, Family Interaction",5,Yes,Yes,1
+725-31-2595,23,Male,2.56,22.0,2.6,7.2,0.0,3,1,3,1,5,No,1,"Meditation, Family Interaction",1,No,Yes,3
+685-28-8610,23,Female,3.32,25.0,3.0,7.6,1.0,2,5,5,4,7,Yes,4,"Isolation, Excessive Screen Time",5,Yes,No,5
+729-30-6560,22,Female,2.57,22.0,6.9,8.1,4.6,1,1,3,1,5,No,2,"Exercise, Meditation",1,No,Yes,5
+821-31-0994,20,Male,2.68,33.0,1.5,7.2,3.8,3,2,4,4,6,No,4,"Journaling, Exercise",3,No,No,2
+814-81-7401,23,Genderqueer,1.96,9.0,5.6,7.0,2.3,2,5,2,1,5,No,5,"Exercise, Meditation",1,No,No,2
+102-53-4424,19,Female,2.67,14.0,3.4,5.7,2.6,2,4,5,2,7,Yes,3,"Isolation, Excessive Screen Time",4,No,Yes,4
+383-92-3685,21,Female,1.69,14.0,3.4,5.9,6.1,3,4,5,5,7,No,4,"Excessive Screen Time, Overthinking",5,No,No,3
+421-67-5430,20,Female,2.11,35.0,5.6,8.2,2.4,2,4,3,1,6,No,1,"Meditation, Exercise",1,Yes,No,4
+402-01-4786,21,Male,3.28,42.0,4.7,8.5,3.7,5,5,4,5,7,Yes,2,"Excessive Screen Time, Overthinking",5,Yes,No,5
+412-84-5105,26,Female,3.29,24.0,5.1,6.5,10.5,3,5,3,2,7,Yes,1,"Substance Use, Excessive Screen Time",4,No,No,2
+200-18-7013,18,Male,3.11,23.0,5.9,6.9,0.0,2,5,3,2,6,No,4,"Meditation, Family Interaction",1,Yes,Yes,2
+370-21-5479,22,Male,2.42,26.0,3.3,5.7,0.0,1,1,5,4,7,Yes,3,"Substance Use, Isolation",1,No,Yes,2
+208-12-7999,18,Genderfluid,2.88,37.0,2.8,8.2,6.4,1,2,3,5,7,Yes,3,"Overthinking, Excessive Screen Time",4,Yes,No,1
+419-54-4414,20,Female,2.9,16.0,1.8,7.6,2.0,5,4,2,3,6,No,1,"Meditation, Exercise",4,No,No,5
+622-57-6873,23,Female,2.32,27.0,2.3,9.1,3.0,3,1,3,4,5,No,5,"Journaling, Meditation",4,No,No,2
+808-35-0942,21,Male,3.65,35.0,9.9,5.7,1.7,2,4,2,5,6,No,5,"Exercise, Journaling",5,Yes,No,5
+616-73-2063,19,Male,3.34,30.0,6.5,6.3,3.2,2,1,5,1,5,No,3,"Family Interaction, Journaling",4,No,No,2
+196-48-5751,20,Male,2.79,27.0,1.3,7.1,8.8,1,5,4,1,7,Yes,1,"Excessive Screen Time, Isolation",5,Yes,No,3
+189-42-4201,22,Male,2.91,35.0,1.4,7.6,6.4,5,4,2,2,5,No,1,"Exercise, Family Interaction",3,No,Yes,5
+678-35-5150,20,Male,3.0,0.0,5.0,6.5,6.6,1,5,4,3,8,Yes,1,"Excessive Screen Time, Substance Use",1,Yes,No,4
+275-55-2472,21,Female,1.88,32.0,5.1,5.8,0.0,1,4,4,1,6,No,4,"Journaling, Family Interaction",1,Yes,Yes,1
+888-10-9349,21,Male,2.78,18.0,5.1,7.9,0.5,5,3,2,5,5,No,5,"Exercise, Meditation",2,No,No,4
+621-13-0774,20,Female,2.56,7.0,3.5,7.7,0.0,3,1,5,5,6,No,5,"Journaling, Exercise",3,Yes,Yes,5
+303-77-3078,25,Male,2.4,30.0,3.7,5.7,1.6,2,3,1,1,4,No,4,"Meditation, Journaling",4,No,No,2
+774-08-5222,22,Non-binary,2.76,39.0,4.7,8.4,6.9,3,1,4,5,6,No,2,"Exercise, Journaling",4,No,Yes,5
+822-73-2624,18,Female,3.8,24.0,4.2,8.2,5.6,4,2,4,5,6,No,4,"Journaling, Family Interaction",3,Yes,No,1
+785-05-2183,21,Female,3.22,35.0,0.0,7.0,3.3,4,4,5,2,7,No,1,"Substance Use, Isolation",4,Yes,Yes,5
+746-44-5218,20,Male,2.61,41.0,3.5,6.9,3.9,4,2,5,3,5,No,4,"Exercise, Family Interaction",2,Yes,No,2
+790-99-1933,23,Male,3.19,38.0,2.3,7.5,1.9,5,2,3,2,5,No,1,"Meditation, Exercise",5,No,No,4
+284-72-1833,19,Male,3.6,41.0,4.4,5.8,4.6,1,1,5,3,6,Yes,3,"Family Interaction, Meditation",1,Yes,Yes,3
+279-07-1790,21,Female,3.36,32.0,10.0,6.8,6.3,3,3,4,5,7,No,1,"Isolation, Overthinking",3,No,No,4
+216-93-6804,22,Male,2.93,26.0,4.7,4.2,0.0,2,5,2,3,6,No,5,"Meditation, Exercise",1,Yes,No,2
+562-13-2617,23,Female,2.58,9.0,3.4,7.9,4.9,4,1,1,5,4,No,4,"Family Interaction, Journaling",5,Yes,No,2
+267-41-4726,19,Male,3.25,23.0,5.8,4.9,6.8,3,5,3,5,8,Yes,1,"Substance Use, Excessive Screen Time",3,No,Yes,1
+240-79-0966,20,Female,3.1,17.0,5.0,8.6,2.8,4,2,2,2,5,Yes,2,"Family Interaction, Exercise",5,No,No,5
+332-97-6557,20,Non-binary,3.35,47.0,4.8,6.4,6.1,4,5,1,2,5,No,3,"Family Interaction, Journaling",4,Yes,Yes,5
+359-59-5634,20,Polygender,3.22,23.0,5.2,6.5,12.4,2,3,1,4,6,No,2,"Family Interaction, Exercise",4,No,No,4
+652-47-2230,25,Female,3.42,26.0,8.1,6.0,3.7,5,1,1,1,3,Yes,2,"Family Interaction, Journaling",4,No,Yes,3
+823-28-1778,22,Non-binary,2.63,31.0,1.7,6.5,5.2,1,3,2,4,7,Yes,2,"Overthinking, Substance Use",5,Yes,Yes,3
+792-33-0211,18,Male,3.56,25.0,4.9,8.5,1.8,5,3,3,4,5,Yes,3,"Meditation, Journaling",5,Yes,Yes,1
+719-03-2622,23,Female,3.0,42.0,2.1,3.8,4.5,3,1,3,3,5,No,3,"Meditation, Exercise",5,No,Yes,2
+532-25-8114,25,Female,3.94,19.0,5.1,8.3,5.4,5,3,1,5,5,No,3,"Exercise, Meditation",1,No,No,1
+662-04-7364,23,Female,2.56,27.0,2.2,7.2,4.6,3,4,2,5,6,No,3,"Journaling, Meditation",5,No,No,5
+894-36-7236,18,Female,3.77,18.0,3.2,5.4,0.9,3,4,1,5,6,No,2,"Meditation, Family Interaction",4,No,No,2
+731-27-1490,20,Non-binary,3.0,12.0,3.4,5.5,4.6,1,4,5,1,6,No,5,"Journaling, Family Interaction",2,No,No,1
+669-90-1482,24,Male,2.57,19.0,6.0,8.8,8.4,2,5,3,3,6,No,5,"Family Interaction, Exercise",5,Yes,No,4
+440-16-4165,20,Male,2.66,25.0,5.8,5.7,5.3,1,3,4,3,7,Yes,3,"Substance Use, Isolation",2,No,No,5
+251-96-3634,22,Female,2.74,21.0,1.5,5.4,6.9,5,1,1,5,4,No,4,"Meditation, Exercise",4,Yes,Yes,3
+181-12-1436,23,Male,3.11,18.0,4.1,8.2,3.3,3,1,5,4,7,Yes,1,"Overthinking, Excessive Screen Time",5,No,No,1
+765-85-9339,19,Male,3.16,11.0,2.6,7.2,6.2,4,5,3,1,5,No,4,"Family Interaction, Meditation",1,No,No,5
+540-74-9445,21,Female,2.61,24.0,1.5,5.7,4.8,4,1,2,4,4,No,4,"Meditation, Family Interaction",1,No,Yes,5
+463-46-8616,18,Male,2.89,10.0,3.6,7.1,1.1,3,4,3,2,5,No,4,"Meditation, Family Interaction",2,Yes,Yes,3
+860-99-6638,19,Female,3.97,33.0,3.4,5.6,5.0,1,3,2,3,5,No,5,"Exercise, Meditation",1,Yes,Yes,3
+472-36-1084,20,Female,3.76,26.0,8.9,8.1,1.0,2,1,2,3,6,No,1,"Journaling, Exercise",1,Yes,No,3
+712-51-0033,19,Female,3.12,10.0,4.9,8.1,2.1,1,1,1,4,5,Yes,4,"Journaling, Meditation",1,No,No,1
+426-96-1187,24,Female,2.92,22.0,1.2,7.4,4.6,3,2,1,1,4,No,3,"Meditation, Journaling",4,Yes,No,3
+198-24-0404,18,Male,2.96,17.0,2.9,7.2,4.9,3,2,3,3,5,No,5,"Meditation, Exercise",1,Yes,Yes,4
+231-51-2392,20,Male,3.21,28.0,6.0,8.9,0.4,2,2,5,4,7,Yes,3,"Isolation, Substance Use",3,Yes,Yes,5
+504-41-0664,21,Female,2.39,38.0,8.2,6.8,7.2,5,3,3,1,4,Yes,3,"Family Interaction, Exercise",5,Yes,No,3
+523-26-1959,24,Male,2.77,6.0,0.8,5.4,5.7,5,4,4,4,6,Yes,4,"Exercise, Journaling",1,Yes,Yes,5
+488-87-7169,18,Male,2.07,26.0,0.2,7.3,1.9,2,4,2,1,5,No,3,"Exercise, Journaling",1,Yes,No,2
+787-23-6149,23,Male,3.1,23.0,7.7,9.3,0.0,5,4,2,5,6,No,1,"Family Interaction, Exercise",1,Yes,No,2
+650-36-5944,21,Male,3.22,32.0,4.8,5.6,3.6,4,3,1,1,4,No,3,"Exercise, Family Interaction",3,No,No,3
+850-50-5993,19,Male,2.66,27.0,2.3,6.4,2.7,5,3,5,2,5,No,4,"Meditation, Exercise",1,No,No,5
+344-48-6320,22,Male,3.69,17.0,5.1,7.3,4.3,5,2,1,5,5,No,3,"Journaling, Meditation",1,No,Yes,2
+267-85-9067,21,Female,2.29,22.0,0.0,6.7,2.9,5,1,4,4,4,No,5,"Meditation, Journaling",5,Yes,Yes,3
+445-01-9008,20,Female,2.17,17.0,4.0,5.6,0.0,4,5,3,5,6,Yes,5,"Exercise, Journaling",3,Yes,Yes,5
+587-06-7007,21,Female,3.01,36.0,4.7,8.1,2.8,5,5,3,5,6,No,5,"Meditation, Family Interaction",3,No,No,3
+412-61-2951,20,Male,3.42,25.0,5.8,9.6,3.1,4,1,5,4,6,No,2,"Meditation, Journaling",1,Yes,Yes,5
+895-64-7527,21,Female,3.74,44.0,2.0,7.0,5.9,2,2,1,4,5,Yes,5,"Journaling, Family Interaction",3,No,No,2
+634-13-9113,22,Female,2.67,24.0,4.2,5.7,1.9,1,1,1,2,4,No,5,"Exercise, Journaling",2,No,No,3
+897-73-6775,24,Female,3.44,18.0,2.1,4.9,9.0,2,1,4,4,6,No,2,"Meditation, Family Interaction",3,Yes,No,2
+291-38-6668,19,Male,2.88,10.0,4.5,7.1,0.0,1,5,3,3,6,Yes,5,"Journaling, Meditation",3,Yes,No,3
+861-23-4943,25,Male,2.81,7.0,2.2,8.1,7.9,2,2,1,3,5,Yes,4,"Meditation, Exercise",3,Yes,Yes,1
+771-43-8087,18,Female,3.34,9.0,3.2,7.4,3.3,1,3,5,2,6,Yes,5,"Exercise, Family Interaction",4,Yes,Yes,2
+896-76-6435,21,Female,3.23,28.0,2.0,6.8,6.6,1,5,3,1,6,No,5,"Exercise, Journaling",4,No,No,2
+210-48-6696,22,Polygender,2.11,30.0,5.3,6.1,4.2,3,3,4,1,6,No,2,"Meditation, Exercise",4,Yes,Yes,4
+590-51-5779,22,Female,3.64,9.0,5.7,5.5,7.4,1,2,5,3,6,No,4,"Journaling, Meditation",3,Yes,Yes,2
+857-45-6864,20,Female,3.59,34.0,3.5,7.8,2.8,1,1,2,4,6,No,3,"Exercise, Journaling",2,No,No,5
+146-61-2919,21,Male,2.59,20.0,4.1,7.9,0.7,3,4,4,2,7,Yes,1,"Substance Use, Overthinking",3,Yes,No,3
+621-24-8028,20,Female,3.1,26.0,1.1,4.9,8.3,5,4,5,1,5,No,4,"Exercise, Journaling",1,Yes,No,1
+820-39-6059,20,Female,3.15,41.0,3.4,8.7,3.7,5,2,1,1,3,Yes,3,"Journaling, Meditation",2,Yes,No,5
+654-40-1059,23,Genderfluid,3.03,34.0,3.9,7.5,4.7,3,4,2,5,6,No,4,"Family Interaction, Meditation",4,No,No,5
+691-34-7594,22,Male,2.62,22.0,9.2,8.5,7.7,4,3,4,3,6,No,3,"Meditation, Journaling",5,No,Yes,5
+294-22-0217,20,Male,2.56,16.0,1.8,5.2,0.9,1,4,1,4,6,No,3,"Exercise, Journaling",2,Yes,Yes,5
+620-14-3348,23,Male,2.89,3.0,6.9,5.2,5.8,1,2,2,2,5,No,4,"Exercise, Meditation",4,Yes,Yes,1
+586-87-3316,22,Female,3.49,18.0,6.0,6.6,2.2,3,2,3,1,5,Yes,2,"Exercise, Meditation",2,Yes,No,4
+195-34-6537,23,Female,3.17,23.0,4.6,7.4,3.6,3,3,1,5,5,No,4,"Exercise, Journaling",2,No,Yes,2
+606-64-6926,22,Female,2.71,15.0,7.5,9.0,4.2,4,4,5,3,6,No,4,"Journaling, Meditation",3,No,No,5
+390-91-0103,19,Female,3.29,24.0,4.7,7.6,0.0,5,4,4,3,6,No,3,"Exercise, Meditation",1,Yes,Yes,2
+366-36-9831,20,Female,1.48,26.0,4.8,6.5,1.7,2,1,2,2,5,No,1,"Exercise, Journaling",5,Yes,Yes,2
+478-75-3530,22,Male,3.47,23.0,3.9,5.6,8.1,5,5,1,1,4,No,3,"Journaling, Meditation",4,No,Yes,5
+140-30-3552,22,Female,2.03,18.0,6.4,8.3,6.7,1,2,3,2,5,No,5,"Journaling, Meditation",2,Yes,Yes,4
+506-21-6440,21,Female,2.72,27.0,6.2,5.6,3.8,3,1,4,2,5,No,4,"Meditation, Journaling",5,No,Yes,2
+620-66-8893,21,Female,2.34,29.0,2.7,8.8,4.7,4,2,4,5,6,No,4,"Family Interaction, Exercise",2,Yes,No,3
+586-34-3444,24,Female,2.25,14.0,1.4,6.5,3.1,5,1,1,3,4,No,2,"Exercise, Journaling",1,Yes,No,2
+605-15-7413,20,Male,3.48,39.0,3.6,8.7,8.1,4,5,3,4,6,No,3,"Family Interaction, Meditation",5,No,No,5
+367-45-6616,22,Female,2.67,24.0,2.4,7.6,3.4,5,1,2,3,4,No,2,"Journaling, Exercise",4,Yes,No,1
+126-08-5321,21,Male,3.07,25.0,3.9,6.6,4.7,1,2,1,3,5,No,4,"Family Interaction, Meditation",2,No,Yes,2
+318-60-4312,21,Female,2.88,32.0,6.5,6.2,7.4,2,4,2,5,7,No,3,"Overthinking, Substance Use",1,No,No,4
+487-96-1364,23,Female,3.14,27.0,3.1,6.4,1.7,4,2,4,4,6,Yes,3,"Exercise, Family Interaction",5,Yes,Yes,3
+264-63-9878,23,Bigender,2.94,35.0,3.9,7.3,8.7,4,3,2,1,4,No,5,"Journaling, Meditation",2,Yes,No,3
+472-15-8341,23,Female,2.26,28.0,4.1,6.9,0.0,2,3,3,4,6,No,5,"Meditation, Journaling",2,No,Yes,1
+540-08-7969,24,Female,3.4,19.0,5.7,6.1,8.9,4,3,5,1,6,No,1,"Journaling, Meditation",4,Yes,Yes,1
+139-17-3617,21,Female,2.65,29.0,0.0,6.6,2.9,4,3,3,4,5,No,5,"Exercise, Meditation",1,No,No,2
+770-07-2386,22,Male,2.12,14.0,2.8,6.9,3.3,5,5,2,2,5,No,3,"Family Interaction, Exercise",3,No,Yes,5
+233-88-7541,20,Female,2.69,26.0,4.4,4.2,0.0,5,4,1,4,4,No,5,"Journaling, Family Interaction",2,Yes,Yes,4
+758-45-8170,22,Female,3.65,25.0,6.4,7.3,2.6,2,4,4,5,8,No,1,"Substance Use, Isolation",5,Yes,Yes,3
+216-56-3702,21,Bigender,3.33,23.0,3.0,5.6,0.9,1,2,5,1,6,No,4,"Meditation, Exercise",4,Yes,Yes,1
+526-42-6686,21,Male,2.73,24.0,0.2,5.4,2.2,4,1,1,3,3,No,5,"Meditation, Journaling",4,Yes,No,4
+726-02-8928,22,Female,2.73,6.0,5.2,4.8,3.6,1,2,1,5,6,No,3,"Exercise, Family Interaction",2,Yes,Yes,5
+409-15-5570,19,Male,2.74,20.0,2.7,4.6,6.9,2,2,3,1,5,No,4,"Meditation, Family Interaction",2,Yes,Yes,3
+871-72-2085,25,Male,3.94,26.0,1.6,5.2,4.6,2,2,2,1,5,No,3,"Exercise, Family Interaction",2,No,No,3
+711-96-0039,19,Female,3.09,27.0,2.8,5.9,4.9,5,2,3,3,4,Yes,4,"Meditation, Journaling",3,Yes,Yes,5
+629-74-5325,19,Female,3.12,15.0,3.6,9.1,0.7,4,4,2,2,5,No,3,"Exercise, Journaling",2,No,No,3
+191-76-1176,23,Agender,3.42,38.0,2.8,6.2,1.4,3,1,3,5,5,No,5,"Family Interaction, Exercise",1,Yes,Yes,5
+511-19-9689,23,Female,3.02,16.0,0.0,7.0,9.4,2,2,1,3,4,No,5,"Meditation, Journaling",5,No,Yes,3
+817-56-1216,22,Agender,2.77,35.0,5.8,7.3,1.8,4,4,4,3,7,Yes,1,"Excessive Screen Time, Isolation",2,No,Yes,2
+890-06-6056,22,Male,2.8,29.0,6.5,7.0,9.0,1,2,2,2,5,No,4,"Family Interaction, Journaling",3,No,Yes,5
+568-72-9492,21,Female,2.86,19.0,5.3,6.7,3.3,5,3,5,5,7,No,1,"Substance Use, Excessive Screen Time",5,No,Yes,4
+445-18-5494,19,Male,2.88,43.0,1.7,5.4,4.0,1,2,5,3,7,Yes,2,"Substance Use, Isolation",4,Yes,Yes,2
+323-01-0451,21,Female,3.26,13.0,3.6,8.5,7.2,2,2,1,2,4,No,5,"Exercise, Meditation",2,Yes,Yes,4
+360-64-8328,20,Male,2.93,34.0,4.0,9.0,7.8,2,5,3,5,7,Yes,4,"Isolation, Substance Use",5,No,No,3
+365-22-3619,23,Female,3.27,35.0,5.2,4.8,3.7,1,3,3,4,7,Yes,1,"Substance Use, Isolation",4,No,Yes,4
+565-92-5987,21,Male,2.86,18.0,5.3,5.6,2.8,2,1,1,1,5,No,1,"Family Interaction, Journaling",3,No,Yes,2
+774-41-4155,19,Male,2.94,39.0,2.5,6.5,3.8,4,2,5,2,6,No,2,"Family Interaction, Meditation",1,Yes,Yes,5
+865-88-4728,20,Female,1.9,22.0,4.2,5.6,5.0,2,1,5,1,6,No,1,"Family Interaction, Exercise",2,Yes,Yes,1
+140-37-3029,22,Male,3.36,28.0,4.9,7.4,6.7,5,3,3,4,5,No,3,"Family Interaction, Exercise",1,Yes,No,4
+221-70-4223,20,Male,3.07,28.0,6.9,5.9,4.0,4,2,2,3,4,No,5,"Exercise, Journaling",3,No,No,1
+729-02-5651,19,Female,3.4,24.0,5.4,9.4,5.9,3,5,4,3,7,No,1,"Substance Use, Excessive Screen Time",5,Yes,Yes,4
+765-72-6831,21,Male,1.45,33.0,5.6,8.2,8.9,2,4,2,5,7,No,1,"Excessive Screen Time, Substance Use",5,No,Yes,4
+704-34-2747,21,Female,3.94,33.0,4.2,7.1,5.1,2,5,5,2,7,No,2,"Excessive Screen Time, Overthinking",3,No,Yes,5
+690-93-7394,20,Male,2.83,8.0,6.8,8.0,4.9,5,5,2,2,5,Yes,3,"Exercise, Meditation",3,Yes,Yes,3
+487-69-5401,20,Female,3.45,38.0,4.8,8.1,0.0,5,4,4,5,7,Yes,1,"Substance Use, Overthinking",2,No,Yes,2
+207-60-0958,21,Male,2.38,8.0,2.3,6.1,0.0,1,4,2,1,5,No,5,"Family Interaction, Journaling",4,Yes,No,2
+869-02-9564,18,Male,3.21,35.0,6.8,5.8,5.2,1,4,2,3,6,No,5,"Exercise, Meditation",1,No,No,2
+447-11-5816,18,Male,2.37,36.0,5.4,6.9,3.7,1,2,2,3,6,No,1,"Family Interaction, Exercise",1,Yes,Yes,3
+228-62-9891,20,Male,2.59,14.0,3.1,7.8,2.5,5,1,2,2,4,No,3,"Family Interaction, Exercise",5,Yes,No,1
+713-31-0160,21,Female,3.86,21.0,3.0,7.0,4.7,1,1,1,2,4,No,5,"Family Interaction, Journaling",5,Yes,No,2
+536-46-2617,22,Genderfluid,2.8,14.0,4.6,4.9,3.8,1,4,5,5,7,No,5,"Isolation, Substance Use",2,No,No,1
+234-47-0088,24,Male,3.01,23.0,4.9,5.8,7.4,3,5,4,4,7,Yes,3,"Excessive Screen Time, Overthinking",3,No,Yes,3
+701-16-4276,23,Male,3.34,22.0,4.4,6.7,4.3,1,3,5,1,6,No,3,"Family Interaction, Exercise",1,No,No,3
+436-21-2987,21,Male,3.15,33.0,4.6,6.7,1.8,2,4,1,4,7,No,1,"Isolation, Substance Use",2,No,Yes,5
+688-07-0382,21,Male,2.98,38.0,7.4,9.2,7.0,5,5,1,4,5,Yes,4,"Exercise, Family Interaction",5,No,No,2
+421-55-9607,19,Female,3.08,39.0,6.1,5.1,3.3,4,5,1,2,5,No,2,"Family Interaction, Journaling",5,No,No,5
+615-79-8440,21,Female,4.0,19.0,4.4,7.4,5.6,3,2,1,2,4,No,4,"Journaling, Family Interaction",1,Yes,No,2
+450-60-6395,20,Male,2.87,23.0,5.9,8.6,2.6,5,2,2,2,4,No,4,"Journaling, Exercise",5,Yes,Yes,3
+118-06-0554,22,Male,3.0,8.0,1.9,9.5,2.1,5,1,5,4,5,No,5,"Family Interaction, Exercise",5,No,No,3
+343-91-1894,19,Female,3.43,17.0,4.8,6.3,4.3,2,1,3,1,5,No,3,"Family Interaction, Journaling",4,No,No,4
+438-76-7174,22,Female,3.45,35.0,7.6,7.4,4.0,1,3,4,2,6,No,5,"Family Interaction, Meditation",3,Yes,No,4
+221-35-2318,24,Female,3.49,41.0,3.6,7.5,5.4,2,3,1,3,6,Yes,2,"Exercise, Family Interaction",5,Yes,No,3
+864-86-1546,21,Male,3.22,13.0,2.3,7.0,3.2,1,3,5,1,7,No,1,"Isolation, Excessive Screen Time",4,No,Yes,3
+778-29-7908,22,Male,2.33,19.0,2.7,6.7,0.0,1,3,1,3,6,Yes,2,"Meditation, Journaling",2,No,Yes,1
+288-35-3562,22,Female,3.72,25.0,1.8,7.3,2.7,5,5,1,1,4,No,5,"Family Interaction, Journaling",5,No,Yes,1
+114-30-7352,20,Female,2.33,28.0,2.4,3.8,6.4,1,5,1,2,5,No,5,"Family Interaction, Meditation",2,Yes,Yes,5
+320-25-0987,21,Female,3.05,17.0,3.3,7.6,3.1,3,1,1,5,4,No,5,"Family Interaction, Journaling",5,No,No,4
+437-86-5614,21,Female,2.52,29.0,1.2,7.0,3.3,3,2,1,2,4,No,5,"Meditation, Journaling",1,No,Yes,4
+481-51-4441,21,Female,2.87,20.0,4.0,6.5,7.0,3,2,4,4,6,No,4,"Exercise, Meditation",4,Yes,Yes,3
+148-57-6730,19,Male,3.06,25.0,5.8,9.3,1.9,5,4,5,4,7,No,1,"Substance Use, Isolation",4,Yes,Yes,3
+254-22-6665,21,Female,3.06,30.0,2.2,6.0,0.0,2,5,1,1,5,No,4,"Journaling, Exercise",1,No,No,5
+845-38-6519,22,Polygender,3.11,25.0,7.0,6.3,3.5,4,3,1,4,4,No,5,"Exercise, Journaling",3,No,No,4
+379-65-0243,24,Female,3.71,21.0,5.0,9.2,2.5,1,3,1,2,5,No,3,"Exercise, Family Interaction",4,Yes,No,1
+522-34-7284,23,Female,3.13,24.0,6.1,5.8,1.1,4,4,1,3,5,No,4,"Journaling, Family Interaction",2,Yes,No,2
+565-02-4043,25,Male,2.78,24.0,2.7,6.1,3.5,2,2,2,2,4,No,5,"Exercise, Journaling",4,No,No,5
+145-37-1963,19,Agender,3.38,21.0,5.7,6.6,5.5,2,3,2,1,4,No,5,"Family Interaction, Journaling",3,Yes,Yes,2
+122-25-1925,23,Female,3.49,22.0,1.8,7.8,4.0,5,2,3,4,6,Yes,1,"Family Interaction, Journaling",2,Yes,No,1
+393-27-3064,21,Female,2.29,41.0,5.8,7.0,4.9,3,4,1,3,6,No,2,"Family Interaction, Meditation",2,Yes,Yes,1
+705-52-8566,25,Female,3.2,31.0,4.3,5.2,9.4,3,2,3,5,6,No,4,"Exercise, Family Interaction",1,No,No,2
+699-31-2060,19,Female,3.25,22.0,5.1,6.2,3.0,2,2,4,3,6,No,4,"Exercise, Meditation",5,Yes,Yes,5
+221-29-3352,19,Male,2.75,32.0,1.6,6.1,4.8,5,2,3,3,4,No,4,"Family Interaction, Meditation",1,No,No,2
+171-13-5095,20,Female,3.59,22.0,2.2,6.7,2.5,5,3,5,2,5,No,5,"Journaling, Meditation",5,Yes,No,5
+656-32-4795,18,Male,2.82,37.0,5.2,7.3,1.5,1,1,2,5,7,Yes,1,"Substance Use, Overthinking",1,No,No,5
+645-66-4118,20,Male,2.96,29.0,2.1,7.3,2.2,3,5,2,1,5,No,5,"Meditation, Exercise",5,No,Yes,3
+288-67-2367,19,Female,2.81,24.0,4.9,4.7,2.6,2,2,1,1,4,No,5,"Exercise, Meditation",4,No,Yes,4
+420-20-2196,21,Bigender,2.91,29.0,1.3,8.1,5.1,4,2,1,3,4,Yes,3,"Journaling, Family Interaction",2,No,Yes,4
+615-50-9853,22,Male,2.35,9.0,5.7,7.1,11.0,3,2,4,3,6,Yes,1,"Journaling, Meditation",5,No,Yes,1
+518-71-3190,25,Female,2.18,14.0,1.5,8.5,1.9,1,1,4,4,6,No,4,"Meditation, Family Interaction",4,Yes,Yes,3
+420-91-7446,23,Female,3.7,13.0,5.1,7.3,2.8,5,4,5,5,7,Yes,2,"Isolation, Substance Use",3,No,No,4
+557-78-4588,20,Male,2.48,26.0,5.3,8.1,3.8,2,3,1,3,5,No,4,"Meditation, Journaling",1,No,No,5
+203-94-0930,19,Male,2.4,42.0,2.6,7.4,5.2,3,1,1,4,4,No,5,"Meditation, Family Interaction",3,No,Yes,5
+328-33-1314,22,Female,1.82,47.0,5.2,8.4,4.8,4,2,4,5,7,Yes,1,"Isolation, Substance Use",4,Yes,No,2
+806-02-8150,18,Male,2.58,31.0,4.5,7.4,7.9,1,1,4,1,6,No,1,"Family Interaction, Exercise",3,No,No,2
+282-41-7702,25,Female,2.24,30.0,2.9,6.7,0.0,1,1,4,4,7,No,1,"Substance Use, Excessive Screen Time",3,No,No,5
+754-90-7661,23,Male,3.72,7.0,2.0,9.5,0.0,3,1,2,5,5,No,3,"Exercise, Family Interaction",4,Yes,No,5
+571-09-2803,20,Male,3.4,20.0,0.1,7.9,2.5,4,4,3,4,6,No,4,"Meditation, Family Interaction",2,No,Yes,2
+795-37-4782,18,Female,2.56,17.0,4.7,7.5,7.3,1,5,3,3,7,Yes,3,"Excessive Screen Time, Isolation",5,Yes,Yes,4
+717-46-4687,24,Female,4.0,19.0,0.9,5.3,0.0,2,3,1,2,5,No,2,"Meditation, Journaling",1,Yes,Yes,1
+531-35-5421,21,Male,3.39,23.0,4.2,5.3,0.0,1,4,2,1,5,Yes,5,"Family Interaction, Meditation",5,No,No,2
+727-06-5275,23,Male,2.74,20.0,3.5,7.2,5.7,4,4,4,3,6,No,3,"Meditation, Family Interaction",1,Yes,No,4
+810-17-3394,18,Male,1.65,5.0,5.4,7.0,4.7,5,5,1,3,5,No,3,"Meditation, Journaling",5,No,Yes,4
+378-69-3253,20,Male,4.0,32.0,3.4,6.1,0.7,5,4,2,5,5,No,5,"Exercise, Journaling",3,No,Yes,4
+615-18-5641,21,Agender,2.21,14.0,3.3,7.0,1.0,3,1,5,4,7,Yes,1,"Isolation, Substance Use",2,Yes,Yes,3
+698-34-8160,21,Male,2.08,27.0,5.5,8.7,1.1,4,1,2,1,3,No,5,"Exercise, Journaling",3,No,No,3
+383-96-7385,20,Female,3.41,46.0,4.7,7.6,4.3,1,2,1,3,5,No,4,"Meditation, Exercise",2,Yes,No,4
+702-64-1654,22,Male,4.0,16.0,4.6,5.4,2.1,1,4,3,5,7,Yes,5,"Excessive Screen Time, Isolation",4,No,No,5
+740-09-9764,19,Agender,3.59,0.0,4.9,6.7,5.5,5,2,4,1,5,No,1,"Journaling, Family Interaction",1,Yes,No,3
+326-55-5707,21,Female,3.18,22.0,0.9,5.8,0.0,5,3,5,4,5,No,5,"Exercise, Journaling",1,No,No,2
+320-56-4479,21,Polygender,3.2,36.0,5.5,6.3,1.4,2,1,2,3,5,No,3,"Family Interaction, Journaling",4,Yes,No,3
+383-97-0460,22,Female,3.33,45.0,5.2,6.3,0.6,5,3,1,3,5,No,2,"Family Interaction, Exercise",5,No,No,5
+738-49-0188,22,Male,3.28,13.0,2.0,6.2,3.2,2,5,1,3,6,Yes,3,"Journaling, Family Interaction",4,Yes,No,1
+711-55-4152,19,Male,3.04,30.0,3.5,5.3,2.4,1,1,4,1,6,Yes,2,"Journaling, Family Interaction",4,Yes,Yes,3
+176-78-6541,18,Female,2.95,20.0,3.9,6.6,6.4,2,3,1,1,4,No,5,"Meditation, Journaling",2,Yes,No,4
+781-40-2585,24,Male,2.87,24.0,3.7,6.1,0.0,2,5,1,1,5,Yes,4,"Family Interaction, Meditation",4,Yes,Yes,4
+499-98-4339,22,Female,2.52,51.0,4.7,3.3,4.1,3,3,4,1,5,No,5,"Family Interaction, Meditation",1,Yes,No,4
+605-26-6514,20,Genderqueer,2.76,10.0,6.9,9.3,5.7,5,5,5,5,8,Yes,1,"Isolation, Excessive Screen Time",3,No,No,1
+586-80-7262,24,Female,2.05,28.0,6.2,8.1,9.6,2,5,3,2,6,No,5,"Journaling, Meditation",2,No,Yes,5
+271-48-3454,21,Male,2.85,30.0,1.4,6.3,2.6,1,1,3,5,7,Yes,2,"Isolation, Excessive Screen Time",2,No,Yes,2
+209-98-0785,23,Female,2.41,36.0,5.2,6.8,5.0,4,2,2,3,5,No,3,"Exercise, Family Interaction",5,Yes,No,5
+443-31-3477,21,Polygender,2.35,26.0,6.7,5.4,0.0,2,5,5,5,8,No,4,"Substance Use, Excessive Screen Time",3,Yes,No,1
+519-06-1329,25,Genderqueer,2.99,28.0,4.8,8.8,0.0,5,5,2,4,5,No,5,"Family Interaction, Exercise",2,No,Yes,4
+804-52-3208,25,Genderfluid,3.6,21.0,6.2,9.1,6.5,3,1,3,1,4,No,5,"Exercise, Family Interaction",4,Yes,Yes,5
+481-77-7907,21,Male,3.36,28.0,8.0,7.0,4.0,1,2,4,4,7,No,3,"Excessive Screen Time, Isolation",2,Yes,Yes,2
+674-98-1276,23,Female,2.11,22.0,6.0,8.0,7.5,3,4,1,4,5,No,4,"Journaling, Meditation",2,No,No,4
+707-05-8481,22,Female,2.41,31.0,4.5,7.0,0.0,4,4,3,3,5,No,5,"Journaling, Family Interaction",2,Yes,Yes,2
+325-94-1580,24,Female,3.37,21.0,6.1,5.2,5.6,2,2,5,1,5,No,5,"Meditation, Journaling",5,Yes,Yes,3
+752-96-2019,19,Female,2.41,29.0,4.3,6.3,9.6,2,3,3,4,7,No,2,"Isolation, Overthinking",2,Yes,No,2
+428-78-6391,22,Male,2.79,25.0,4.0,7.0,5.3,5,1,5,3,5,Yes,2,"Meditation, Journaling",2,No,No,4
+464-11-5678,23,Female,3.18,36.0,3.3,6.3,4.8,2,2,5,1,6,No,1,"Meditation, Journaling",5,Yes,No,3
+651-96-1453,18,Male,2.42,24.0,7.1,6.5,4.0,1,4,5,2,7,No,3,"Excessive Screen Time, Substance Use",3,Yes,Yes,4
+530-09-1717,19,Male,2.95,7.0,2.4,6.7,0.0,4,5,2,3,5,No,4,"Exercise, Family Interaction",1,Yes,Yes,4
+309-47-7464,18,Female,2.23,38.0,7.1,6.7,8.1,3,4,4,5,6,No,5,"Journaling, Exercise",5,No,Yes,3
+334-92-9954,20,Male,2.6,16.0,5.0,6.9,2.2,4,5,3,1,5,Yes,5,"Family Interaction, Meditation",5,No,No,2
+463-37-4141,22,Female,3.06,18.0,1.2,5.5,5.5,2,1,4,4,7,No,1,"Isolation, Excessive Screen Time",2,No,Yes,1
+788-73-1307,24,Female,2.1,19.0,4.7,5.9,0.0,3,5,1,4,5,Yes,5,"Journaling, Exercise",2,Yes,No,1
+892-74-2771,21,Male,3.12,39.0,0.0,5.3,0.5,5,2,3,5,5,No,3,"Family Interaction, Meditation",1,No,Yes,1
+241-23-6708,24,Female,2.89,4.0,5.3,8.0,8.3,4,5,4,5,8,Yes,1,"Excessive Screen Time, Isolation",2,Yes,Yes,1
+545-56-1934,18,Female,3.18,56.0,5.8,4.3,3.0,3,3,4,4,6,No,3,"Exercise, Journaling",4,Yes,Yes,5
+477-22-8639,18,Female,3.01,36.0,2.8,8.2,8.4,3,2,1,1,5,No,1,"Journaling, Family Interaction",2,No,Yes,1
+335-88-9255,21,Female,3.58,27.0,4.2,8.5,3.8,3,1,5,3,5,Yes,5,"Family Interaction, Exercise",2,Yes,No,3
+202-17-3500,22,Male,2.96,24.0,7.9,6.4,0.0,1,2,3,5,7,Yes,1,"Substance Use, Isolation",4,No,No,1
+523-31-2613,21,Male,2.69,28.0,3.0,3.7,6.7,4,3,3,5,6,No,2,"Exercise, Meditation",1,Yes,No,4
+254-42-8904,18,Female,2.96,30.0,1.9,6.4,2.2,3,1,1,5,5,No,4,"Family Interaction, Exercise",4,No,No,1
+799-05-5204,21,Male,3.17,31.0,7.0,6.7,6.1,4,4,5,2,5,No,5,"Meditation, Journaling",5,Yes,No,2
+390-16-0228,18,Female,2.92,31.0,7.9,5.6,4.1,3,3,3,1,5,No,4,"Exercise, Meditation",4,Yes,No,3
+208-48-5788,22,Female,2.92,26.0,4.0,6.2,0.0,5,1,3,1,3,No,5,"Journaling, Exercise",3,Yes,No,3
+890-19-8390,22,Female,2.55,23.0,6.0,8.6,4.5,5,5,3,1,5,No,4,"Exercise, Journaling",5,Yes,No,5
+437-37-2214,19,Female,2.57,23.0,6.7,7.6,10.6,5,2,5,1,5,No,2,"Exercise, Journaling",2,Yes,No,4
+110-72-8540,20,Polygender,2.2,23.0,2.5,5.7,5.5,2,1,1,1,4,No,4,"Journaling, Family Interaction",5,Yes,No,3
+579-55-4938,19,Polygender,3.77,36.0,3.0,4.9,3.8,3,2,3,4,6,No,1,"Journaling, Exercise",1,Yes,No,2
+466-18-6728,21,Female,2.28,31.0,6.5,6.4,7.2,2,5,4,5,7,No,4,"Overthinking, Substance Use",1,No,No,1
+450-92-7163,23,Female,2.55,0.0,7.4,6.5,4.6,4,1,5,4,5,Yes,5,"Family Interaction, Meditation",4,Yes,No,3
+305-74-1381,19,Male,2.54,32.0,5.1,7.4,4.6,2,4,2,2,6,No,3,"Family Interaction, Exercise",5,No,Yes,2
+479-46-7256,22,Genderqueer,3.35,27.0,2.2,6.2,0.7,4,3,1,3,4,Yes,4,"Family Interaction, Exercise",2,Yes,No,1
+354-85-7597,20,Male,2.75,25.0,8.0,7.4,4.7,4,1,4,5,5,No,4,"Journaling, Meditation",1,Yes,Yes,5
+561-12-6582,19,Male,3.52,21.0,2.9,9.1,7.1,4,5,3,2,5,No,4,"Exercise, Meditation",2,No,No,3
+851-42-5437,21,Female,2.56,36.0,3.3,7.8,1.5,2,1,2,4,5,No,5,"Family Interaction, Meditation",3,No,Yes,3
+382-54-7314,19,Male,3.04,34.0,4.7,6.7,8.3,3,2,1,3,4,No,4,"Journaling, Exercise",1,No,Yes,2
+550-68-8072,20,Male,2.48,17.0,7.1,6.6,3.7,2,1,5,2,5,No,5,"Exercise, Meditation",4,No,No,4
+888-49-6708,19,Male,3.97,29.0,5.7,6.4,1.3,3,4,2,3,5,Yes,5,"Journaling, Exercise",3,No,Yes,5
+593-90-7730,25,Male,2.31,15.0,4.8,8.2,7.0,3,1,2,2,4,No,3,"Family Interaction, Meditation",5,Yes,Yes,4
+309-75-5842,21,Male,3.05,11.0,4.9,6.0,3.1,4,3,4,4,7,No,1,"Isolation, Excessive Screen Time",2,No,No,3
+858-22-8290,20,Male,3.22,19.0,4.1,6.9,6.3,2,1,1,3,4,No,5,"Exercise, Family Interaction",1,No,No,4
+894-23-4350,21,Female,3.11,34.0,5.1,6.9,3.1,3,2,4,2,6,Yes,2,"Exercise, Journaling",3,Yes,Yes,1
+839-24-2141,21,Male,2.81,35.0,0.0,6.2,3.8,5,1,4,4,5,No,4,"Family Interaction, Exercise",3,No,Yes,5
+783-83-0580,21,Genderfluid,2.84,30.0,3.4,5.2,5.5,3,4,3,5,7,Yes,2,"Isolation, Overthinking",1,Yes,Yes,4
+858-67-4388,22,Female,2.92,32.0,4.5,7.2,4.9,5,5,5,4,6,No,4,"Meditation, Exercise",5,Yes,No,1
+744-22-9388,23,Male,2.83,30.0,1.7,6.7,0.0,2,1,2,4,5,No,3,"Journaling, Family Interaction",5,Yes,Yes,2
+762-39-4942,20,Male,3.38,19.0,4.8,7.4,0.6,2,1,1,5,5,No,5,"Journaling, Exercise",4,No,Yes,4
+463-52-5345,20,Female,4.0,29.0,3.6,6.2,6.8,2,3,5,4,8,Yes,1,"Isolation, Overthinking",5,Yes,No,5
+392-14-8873,20,Male,2.62,33.0,7.5,8.3,3.6,3,4,5,5,7,Yes,5,"Overthinking, Excessive Screen Time",4,No,Yes,1
+789-40-6037,18,Male,2.22,33.0,7.1,5.7,2.4,1,5,1,5,7,Yes,4,"Substance Use, Overthinking",3,No,Yes,4
+136-03-8608,18,Male,2.86,37.0,3.1,8.9,0.0,3,2,5,5,7,Yes,1,"Overthinking, Isolation",1,Yes,Yes,2
+513-74-3727,24,Male,4.0,32.0,3.7,4.7,0.8,3,1,3,2,4,No,5,"Journaling, Family Interaction",5,Yes,No,4
+668-31-1758,24,Female,2.5,29.0,3.9,7.3,0.0,4,5,5,3,7,Yes,1,"Substance Use, Isolation",4,Yes,No,1
+729-58-5962,21,Male,3.72,36.0,3.1,7.4,3.7,4,2,3,2,4,Yes,4,"Exercise, Journaling",3,No,Yes,4
+312-59-9234,22,Female,3.74,25.0,4.4,5.8,2.2,3,4,2,5,6,No,3,"Meditation, Family Interaction",5,Yes,Yes,5
+146-66-6851,22,Male,2.62,16.0,2.5,7.3,1.1,5,4,2,3,5,No,3,"Meditation, Journaling",2,No,No,3
+864-73-0913,27,Male,3.18,23.0,1.7,8.3,3.8,4,5,4,3,6,No,5,"Exercise, Meditation",3,Yes,Yes,1
+897-17-0811,23,Female,3.71,18.0,5.2,4.1,5.1,3,2,3,5,6,No,2,"Meditation, Exercise",5,No,No,1
+488-51-3997,21,Female,2.71,18.0,5.3,7.4,10.3,1,4,2,3,6,No,4,"Family Interaction, Meditation",3,No,No,1
+251-46-4115,19,Non-binary,2.8,24.0,2.4,3.8,0.0,5,5,5,3,6,No,5,"Meditation, Journaling",1,No,No,1
+110-77-5199,18,Male,2.61,17.0,5.8,5.6,7.5,2,4,1,2,5,No,5,"Meditation, Family Interaction",1,No,No,4
+337-38-5119,21,Non-binary,2.39,22.0,2.7,8.8,6.9,3,4,1,3,5,No,3,"Exercise, Journaling",1,Yes,No,5
+652-68-4139,19,Male,2.58,6.0,4.5,6.1,1.7,3,4,3,5,7,Yes,1,"Substance Use, Isolation",2,No,Yes,2
+389-50-2944,18,Female,2.29,27.0,5.6,5.4,4.6,5,3,4,1,4,No,4,"Family Interaction, Meditation",1,No,Yes,5
+757-52-0603,20,Male,2.92,25.0,3.9,6.6,2.6,4,2,5,1,6,Yes,1,"Family Interaction, Journaling",2,No,No,1
+276-75-5554,19,Polygender,2.52,17.0,4.9,9.3,4.6,4,5,3,1,5,No,4,"Meditation, Journaling",1,No,No,4
+421-35-8280,24,Male,3.02,32.0,3.0,4.6,8.5,4,5,1,5,6,No,2,"Family Interaction, Journaling",3,No,Yes,4
+637-82-3471,23,Male,2.12,34.0,3.6,5.5,5.8,2,2,3,1,5,Yes,3,"Journaling, Exercise",5,Yes,No,1
+454-66-7440,21,Non-binary,3.07,9.0,3.6,8.6,5.5,5,2,5,2,5,Yes,2,"Family Interaction, Exercise",5,Yes,Yes,4
+753-28-7167,24,Male,3.32,17.0,2.5,9.0,2.7,5,2,2,5,4,No,5,"Family Interaction, Exercise",1,Yes,No,1
+203-49-0874,21,Female,1.9,17.0,3.6,6.7,0.0,4,2,5,5,6,Yes,3,"Exercise, Family Interaction",5,No,Yes,5
+415-41-7143,19,Male,3.09,16.0,0.9,5.3,3.4,4,1,2,5,4,Yes,5,"Journaling, Meditation",1,No,Yes,3
+352-71-4280,24,Male,3.51,33.0,3.0,9.3,7.6,1,5,2,3,7,Yes,2,"Isolation, Overthinking",1,No,Yes,4
+237-08-5949,22,Female,2.3,23.0,3.4,8.7,0.0,1,1,2,3,5,No,4,"Exercise, Meditation",4,Yes,Yes,1
+134-38-2267,19,Female,3.74,22.0,3.5,7.6,0.8,3,4,3,3,5,No,5,"Meditation, Family Interaction",4,Yes,No,1
+547-88-1614,21,Genderfluid,3.11,5.0,3.5,5.8,4.4,3,4,1,4,6,No,1,"Meditation, Family Interaction",4,Yes,No,4
+804-74-5321,19,Male,2.55,31.0,3.9,6.7,1.0,5,5,3,2,5,No,4,"Meditation, Exercise",2,Yes,Yes,2
+313-73-8228,18,Female,2.87,13.0,5.0,6.6,1.6,5,4,1,5,5,No,4,"Meditation, Family Interaction",4,No,Yes,1
+808-63-1924,23,Male,3.18,26.0,5.7,7.2,2.7,2,2,5,5,7,No,2,"Excessive Screen Time, Isolation",1,No,No,4
+642-70-1410,25,Female,2.94,28.0,2.7,8.5,0.0,2,1,4,3,6,No,2,"Meditation, Family Interaction",3,No,Yes,1
+556-62-7808,18,Male,3.17,39.0,1.6,7.9,1.1,1,2,5,5,7,Yes,3,"Overthinking, Excessive Screen Time",4,Yes,Yes,2
+800-14-7482,22,Female,2.44,12.0,1.9,5.5,6.1,3,4,3,5,7,Yes,3,"Substance Use, Overthinking",4,No,Yes,3
+662-06-0085,20,Male,2.98,0.0,3.0,8.5,0.1,1,1,3,1,6,Yes,1,"Meditation, Journaling",3,No,No,2
+299-74-7887,20,Female,2.19,27.0,3.3,7.2,0.0,1,2,1,5,6,No,4,"Family Interaction, Exercise",1,No,Yes,5
+145-29-0147,20,Male,2.84,43.0,2.5,7.6,2.1,3,5,3,4,7,Yes,1,"Overthinking, Isolation",2,Yes,No,4
+815-87-5163,19,Male,2.45,37.0,1.4,8.6,6.2,2,2,2,3,6,No,1,"Family Interaction, Journaling",4,Yes,Yes,2
+753-61-1198,21,Female,2.53,27.0,3.1,5.5,3.4,3,4,3,2,6,No,2,"Family Interaction, Meditation",3,Yes,No,3
+461-28-4962,19,Male,3.52,20.0,4.4,6.8,2.6,4,1,1,2,4,No,1,"Family Interaction, Meditation",1,No,No,1
+413-03-4492,22,Female,3.45,33.0,5.2,6.2,4.1,4,5,1,1,5,No,1,"Meditation, Exercise",5,No,No,4
+753-01-4944,21,Female,3.2,15.0,2.9,4.9,0.0,4,1,2,2,3,No,5,"Journaling, Family Interaction",2,Yes,Yes,2
+198-16-6530,21,Female,2.35,30.0,3.2,7.2,5.5,5,5,1,2,5,No,3,"Journaling, Meditation",3,No,No,3
+602-70-7449,19,Male,2.74,30.0,2.1,9.8,5.2,2,1,4,3,6,Yes,3,"Journaling, Meditation",3,Yes,No,2
+807-08-9130,20,Male,3.51,36.0,3.9,4.6,2.8,2,4,5,3,7,Yes,4,"Isolation, Excessive Screen Time",3,Yes,Yes,5
+682-85-4744,23,Female,2.97,53.0,2.3,6.8,7.0,5,5,3,4,6,No,3,"Exercise, Family Interaction",4,Yes,No,4
+477-39-7180,22,Female,4.0,29.0,5.1,7.6,0.6,1,3,4,1,6,Yes,4,"Meditation, Family Interaction",5,No,Yes,1
+187-89-3320,19,Female,3.1,20.0,0.4,6.9,7.4,4,1,3,2,4,No,5,"Meditation, Journaling",2,No,No,3
+724-36-6125,21,Female,3.0,25.0,3.3,6.7,4.5,4,1,4,4,5,Yes,3,"Exercise, Family Interaction",1,No,No,2
+857-86-6617,23,Female,2.75,7.0,4.6,5.2,3.0,1,2,3,1,5,No,5,"Meditation, Exercise",1,No,Yes,4
+561-26-2299,18,Female,2.97,18.0,4.4,7.1,3.9,3,5,2,2,6,Yes,3,"Journaling, Family Interaction",5,No,No,2
+311-80-2077,22,Female,2.82,21.0,9.4,5.9,3.7,3,3,1,2,5,No,3,"Meditation, Exercise",3,Yes,Yes,4
+444-95-5357,20,Female,3.25,20.0,4.7,4.2,7.7,2,4,1,3,5,Yes,5,"Meditation, Exercise",3,Yes,Yes,5
+745-17-9052,22,Male,3.38,27.0,2.0,8.2,0.8,5,2,2,5,6,Yes,1,"Family Interaction, Exercise",3,No,No,2
+508-21-9829,19,Agender,2.51,17.0,3.8,8.0,1.7,2,3,4,1,6,Yes,1,"Family Interaction, Exercise",3,No,No,5
+851-45-3801,18,Male,2.23,36.0,0.4,6.9,7.1,3,5,5,2,7,No,1,"Overthinking, Isolation",3,Yes,No,3
+677-98-2595,18,Male,1.98,25.0,3.8,7.1,2.2,1,3,4,1,7,No,1,"Isolation, Excessive Screen Time",5,No,No,5
+200-05-4427,21,Male,3.15,25.0,2.3,8.1,6.7,2,1,1,4,5,No,3,"Journaling, Family Interaction",4,Yes,Yes,4
+606-27-0947,22,Male,2.35,22.0,5.8,7.1,9.1,4,1,5,4,6,Yes,2,"Meditation, Family Interaction",2,Yes,No,3
+780-34-7404,19,Male,1.82,27.0,2.9,7.9,2.8,4,2,3,5,5,Yes,5,"Family Interaction, Meditation",3,No,No,2
+578-68-4662,22,Female,3.09,33.0,3.8,6.4,6.0,1,5,5,2,8,Yes,2,"Substance Use, Isolation",4,No,Yes,2
+559-73-5257,18,Male,4.0,16.0,2.7,8.4,0.5,3,5,4,3,7,No,2,"Excessive Screen Time, Substance Use",1,No,No,4
+270-63-4953,21,Male,2.9,18.0,7.5,7.2,6.3,4,3,2,2,4,No,4,"Meditation, Family Interaction",5,Yes,No,1
+351-32-7438,19,Male,3.32,22.0,3.4,7.0,4.6,4,2,3,1,5,No,1,"Family Interaction, Exercise",4,Yes,Yes,1
+123-28-3736,20,Male,2.94,12.0,7.7,5.3,5.4,5,5,4,4,6,No,3,"Exercise, Meditation",3,No,Yes,2
+551-07-0629,21,Female,2.85,17.0,5.6,7.1,2.1,2,1,3,1,5,No,1,"Family Interaction, Meditation",3,Yes,No,4
+426-06-7163,19,Male,3.36,20.0,5.0,5.8,0.0,3,3,5,5,8,No,1,"Substance Use, Isolation",3,Yes,Yes,1
+710-66-1494,20,Female,2.75,34.0,4.7,6.0,5.5,2,4,1,4,6,No,2,"Meditation, Exercise",4,No,Yes,5
+426-11-4313,23,Male,3.03,28.0,4.8,5.8,0.0,3,1,4,3,5,No,4,"Exercise, Family Interaction",3,No,Yes,2
+540-91-7162,20,Male,3.06,27.0,0.1,5.5,3.0,4,2,2,4,6,No,1,"Family Interaction, Journaling",4,No,No,5
+311-67-1045,23,Female,2.57,34.0,3.4,9.3,6.8,5,5,5,2,5,No,5,"Exercise, Family Interaction",3,No,Yes,4
+617-48-8523,19,Male,3.4,24.0,5.7,8.4,4.6,2,1,4,2,5,Yes,5,"Meditation, Journaling",1,Yes,Yes,5
+400-92-3567,22,Female,2.81,29.0,3.9,9.1,9.8,4,4,2,4,6,Yes,1,"Journaling, Meditation",1,No,No,1
+659-59-5137,24,Male,2.52,24.0,1.2,5.3,7.1,3,4,4,5,7,Yes,2,"Isolation, Excessive Screen Time",2,Yes,Yes,1
+330-13-8536,18,Male,3.17,28.0,3.9,6.9,2.0,2,2,5,2,6,No,2,"Meditation, Family Interaction",3,No,No,3
+654-71-3880,19,Male,2.45,19.0,7.4,5.2,4.1,2,1,4,2,5,No,3,"Exercise, Family Interaction",3,No,No,2
+379-34-7617,22,Female,2.91,1.0,6.5,6.0,3.9,4,3,3,3,5,Yes,4,"Exercise, Journaling",4,No,No,4
+650-55-0326,21,Female,2.9,24.0,3.9,5.7,0.0,2,1,5,4,7,No,2,"Excessive Screen Time, Substance Use",4,Yes,No,2
+626-99-1919,22,Male,3.44,39.0,5.9,8.3,1.2,5,4,4,2,5,Yes,3,"Exercise, Meditation",3,No,Yes,5
+746-48-8600,20,Female,3.14,34.0,3.3,6.3,2.3,5,2,1,5,4,No,5,"Family Interaction, Exercise",2,Yes,No,4
+336-64-6627,21,Male,2.89,35.0,0.6,8.1,0.0,4,2,4,1,4,Yes,5,"Exercise, Journaling",3,No,Yes,4
+454-52-5179,21,Male,3.31,37.0,2.2,7.5,4.1,3,3,3,4,5,No,5,"Journaling, Exercise",4,Yes,Yes,1
+241-31-8936,23,Female,3.6,26.0,7.1,9.6,3.3,4,2,2,3,5,No,1,"Meditation, Exercise",3,No,Yes,5
+683-71-7475,22,Male,3.18,27.0,3.5,5.0,0.0,5,2,2,2,4,Yes,4,"Exercise, Meditation",4,Yes,No,1
+569-85-6676,22,Female,2.91,19.0,3.5,8.3,5.2,1,2,2,5,6,No,3,"Journaling, Exercise",3,Yes,No,1
+593-17-5747,20,Male,2.24,22.0,3.4,8.2,6.1,1,2,1,4,5,No,4,"Exercise, Family Interaction",5,No,No,3
+510-80-3056,20,Male,2.37,31.0,7.8,5.6,4.7,2,2,3,5,7,No,1,"Isolation, Substance Use",4,No,Yes,1
+880-57-0413,20,Male,2.75,37.0,7.3,8.0,3.0,2,4,5,5,8,Yes,3,"Isolation, Overthinking",2,No,No,2
+779-50-6123,22,Female,2.6,24.0,8.4,7.2,5.8,1,1,2,3,5,No,3,"Journaling, Exercise",5,No,Yes,4
+223-73-6426,20,Female,2.81,20.0,3.7,6.5,6.0,5,5,3,4,6,No,2,"Journaling, Meditation",3,Yes,No,1
+677-75-1654,22,Male,2.93,25.0,4.6,5.8,4.9,2,2,4,2,5,Yes,4,"Journaling, Meditation",4,No,Yes,2
+846-50-6000,25,Male,3.16,31.0,1.0,5.9,1.5,4,5,1,3,5,No,4,"Meditation, Family Interaction",5,Yes,No,5
+465-30-9041,23,Female,2.86,11.0,7.0,9.3,4.8,4,5,3,2,6,No,2,"Exercise, Meditation",2,No,No,4
+199-36-3330,20,Female,3.14,2.0,1.7,6.8,7.6,5,4,3,1,4,No,5,"Meditation, Exercise",4,Yes,Yes,5
+741-94-3934,23,Male,2.93,19.0,4.4,7.7,2.2,2,2,5,5,8,Yes,1,"Overthinking, Substance Use",5,Yes,No,2
+620-59-7310,20,Female,1.91,13.0,1.8,5.9,10.3,4,5,3,1,5,No,4,"Exercise, Family Interaction",5,No,Yes,5
+318-20-1854,18,Male,2.43,20.0,2.8,5.9,2.4,2,2,5,5,7,No,2,"Overthinking, Isolation",5,Yes,No,5
+361-13-4964,19,Male,2.83,24.0,2.3,8.1,4.1,2,3,1,3,5,Yes,3,"Exercise, Journaling",1,No,No,5
+558-06-2488,18,Male,2.3,20.0,2.8,5.2,2.0,4,3,1,2,5,No,2,"Journaling, Exercise",3,Yes,Yes,1
+647-49-6549,20,Male,3.2,40.0,2.9,6.3,4.7,1,3,4,2,6,No,5,"Family Interaction, Meditation",4,No,Yes,1
+396-10-9556,21,Male,3.67,28.0,2.9,6.8,0.0,4,5,5,3,7,No,1,"Overthinking, Substance Use",4,No,No,1
+163-45-2420,24,Male,3.51,28.0,5.7,6.9,2.4,5,3,5,4,5,No,5,"Exercise, Family Interaction",4,Yes,No,4
+263-28-9222,22,Female,2.79,31.0,1.8,6.6,0.7,3,4,2,1,5,No,3,"Journaling, Exercise",5,No,Yes,2
+863-56-3929,21,Female,3.65,14.0,4.4,7.3,4.4,4,4,2,1,5,No,3,"Meditation, Family Interaction",3,Yes,No,1
+823-55-1413,23,Female,2.97,35.0,6.4,7.6,7.0,2,5,4,2,7,No,3,"Overthinking, Substance Use",2,Yes,No,5
+393-36-0386,18,Male,2.73,24.0,3.0,7.7,5.9,2,2,1,2,5,Yes,3,"Exercise, Meditation",4,No,No,5
+483-79-6469,21,Male,2.59,32.0,2.6,5.6,0.0,4,1,2,2,4,No,2,"Meditation, Journaling",3,No,No,5
+886-41-9710,23,Male,2.75,14.0,3.5,6.5,10.1,3,2,3,3,5,No,3,"Exercise, Family Interaction",3,No,No,5
+123-52-5485,18,Male,2.71,9.0,6.4,8.2,4.9,4,2,1,4,5,No,3,"Journaling, Exercise",1,No,No,3
+584-25-5327,23,Female,2.99,33.0,4.4,7.9,1.7,3,2,3,1,5,No,2,"Journaling, Meditation",4,Yes,No,4
+282-64-9511,22,Female,2.98,29.0,2.9,5.2,4.5,3,2,5,5,7,Yes,3,"Excessive Screen Time, Substance Use",5,No,Yes,2
+839-90-7246,20,Male,2.9,16.0,5.0,7.2,4.5,5,1,1,3,3,No,5,"Exercise, Journaling",3,No,No,2
+197-16-6156,22,Male,3.12,16.0,1.8,4.4,2.0,2,3,4,1,5,No,5,"Meditation, Family Interaction",3,No,No,1
+453-60-8989,26,Female,3.5,36.0,5.4,6.9,4.6,2,2,5,4,6,Yes,4,"Meditation, Journaling",2,No,Yes,3
+219-08-7978,21,Female,3.37,13.0,4.8,9.1,2.2,3,4,5,3,6,No,5,"Journaling, Exercise",1,Yes,Yes,2
+817-75-9957,21,Female,2.16,41.0,3.4,5.7,2.8,2,5,3,1,7,No,1,"Excessive Screen Time, Substance Use",3,Yes,No,4
+257-59-3889,20,Bigender,1.62,16.0,2.3,5.8,1.9,1,5,5,3,8,No,1,"Overthinking, Isolation",3,No,No,5
+648-04-5327,19,Male,3.37,31.0,2.2,7.7,0.0,3,4,2,1,6,No,1,"Family Interaction, Journaling",5,Yes,No,1
+259-06-7837,23,Male,2.22,22.0,5.1,4.9,4.4,2,2,1,1,5,No,2,"Journaling, Exercise",5,Yes,Yes,4
+174-42-7135,19,Male,2.79,31.0,6.5,6.0,5.8,1,1,2,4,5,No,5,"Journaling, Meditation",2,No,No,2
+478-23-0281,21,Male,2.31,20.0,2.7,7.5,5.5,5,3,3,5,6,Yes,1,"Journaling, Meditation",2,Yes,No,3
+224-73-0992,20,Female,2.0,23.0,4.9,6.0,6.5,2,5,3,4,7,Yes,4,"Isolation, Overthinking",2,No,Yes,1
+636-25-9534,22,Female,3.17,25.0,0.0,6.5,5.0,1,3,1,1,5,No,2,"Journaling, Family Interaction",5,Yes,Yes,2
+393-27-9582,22,Female,3.28,15.0,2.8,7.7,2.4,4,1,5,3,5,No,4,"Journaling, Exercise",5,Yes,Yes,1
+318-38-9465,23,Male,2.61,32.0,3.9,7.3,6.5,4,5,4,4,6,No,5,"Meditation, Family Interaction",1,Yes,No,2
+103-34-9967,20,Male,1.6,20.0,2.2,7.1,0.0,1,3,3,5,7,No,3,"Excessive Screen Time, Substance Use",4,No,Yes,5
+327-70-4852,20,Female,2.63,23.0,2.1,6.4,1.3,3,1,1,1,3,No,4,"Family Interaction, Exercise",4,Yes,No,3
+503-21-1367,19,Male,3.1,15.0,2.7,7.2,1.1,3,3,4,4,6,Yes,3,"Meditation, Family Interaction",1,Yes,No,5
+699-55-4412,20,Male,2.16,0.0,4.6,6.7,7.2,2,2,5,4,7,Yes,2,"Isolation, Substance Use",4,No,Yes,2
+268-54-3043,22,Female,2.99,23.0,3.6,7.3,6.8,4,1,3,4,5,No,4,"Meditation, Journaling",5,No,Yes,4
+745-80-5323,23,Bigender,2.89,49.0,0.0,6.2,5.5,3,3,1,4,5,No,4,"Journaling, Meditation",4,Yes,No,5
+724-01-5785,19,Female,3.19,33.0,0.0,6.6,7.2,3,2,1,3,5,No,2,"Exercise, Family Interaction",5,Yes,Yes,4
+326-09-7471,23,Male,2.96,25.0,2.8,5.6,1.4,4,2,1,5,5,No,2,"Journaling, Family Interaction",1,Yes,Yes,2
+670-07-5476,24,Male,2.41,22.0,4.9,6.8,5.0,5,1,3,5,6,No,1,"Meditation, Family Interaction",2,Yes,Yes,3
+455-15-0002,22,Male,3.5,25.0,0.0,5.8,3.6,3,4,4,1,5,No,5,"Journaling, Meditation",1,No,Yes,4
+661-89-6367,25,Male,2.82,30.0,3.0,5.5,6.5,1,5,1,2,6,Yes,4,"Meditation, Journaling",4,No,Yes,2
+881-92-9952,19,Male,2.89,13.0,2.9,7.1,3.7,2,1,5,3,6,No,4,"Meditation, Exercise",5,No,No,4
+112-30-3427,19,Male,2.43,36.0,6.8,7.1,2.8,3,2,1,1,4,No,2,"Exercise, Meditation",4,Yes,No,5
+782-86-8699,18,Male,2.68,32.0,3.2,7.7,5.6,3,2,4,1,5,No,2,"Family Interaction, Exercise",4,Yes,No,2
+790-70-7894,24,Female,2.46,32.0,4.8,6.3,6.6,5,1,3,4,4,Yes,5,"Meditation, Family Interaction",2,Yes,Yes,5
+630-52-4757,22,Female,2.81,29.0,4.3,7.3,2.0,1,4,1,2,6,Yes,2,"Exercise, Meditation",4,No,No,1
+366-66-5774,21,Male,3.76,25.0,0.0,7.5,3.8,2,5,1,2,6,No,3,"Exercise, Journaling",2,Yes,No,2
+831-13-0504,22,Male,2.21,32.0,5.5,7.3,0.8,3,3,5,3,6,No,3,"Meditation, Journaling",5,No,No,4
+464-13-1109,19,Male,2.09,31.0,4.4,5.8,0.0,2,1,5,2,6,No,3,"Meditation, Journaling",5,Yes,Yes,1
+792-49-4755,26,Male,3.64,21.0,5.0,7.0,4.6,4,5,1,1,5,No,3,"Exercise, Family Interaction",2,No,No,5
+581-76-0875,21,Male,2.8,19.0,10.0,7.2,5.8,3,5,1,2,5,No,5,"Exercise, Family Interaction",1,No,Yes,5
+598-52-9686,21,Male,2.57,26.0,0.0,6.8,4.8,3,2,5,2,5,No,4,"Meditation, Family Interaction",5,Yes,No,4
+874-47-7830,22,Male,3.42,40.0,7.4,4.3,0.0,4,3,4,5,6,No,3,"Exercise, Family Interaction",1,No,Yes,1
+521-64-9078,22,Male,2.6,13.0,3.4,7.0,2.9,5,1,2,1,4,No,2,"Meditation, Journaling",5,Yes,Yes,3
+505-09-0766,21,Male,3.81,10.0,4.6,9.5,0.0,3,2,2,2,5,Yes,3,"Exercise, Meditation",5,Yes,Yes,4
+891-03-5267,19,Male,3.24,27.0,3.9,6.4,8.1,2,2,1,2,4,No,5,"Meditation, Journaling",3,Yes,No,5
+536-05-0705,22,Female,2.66,26.0,3.2,5.9,0.7,1,4,5,4,8,Yes,2,"Isolation, Substance Use",4,Yes,No,2
+146-27-2280,25,Female,3.98,27.0,2.9,7.2,7.8,2,5,3,2,6,No,3,"Exercise, Meditation",4,Yes,No,1
+339-64-6463,24,Bigender,2.6,27.0,4.7,7.2,6.8,5,1,3,2,4,No,4,"Meditation, Journaling",1,Yes,No,3
+295-68-1492,24,Bigender,3.27,23.0,1.0,8.2,1.3,1,1,2,5,6,No,2,"Meditation, Family Interaction",4,No,Yes,2
+252-34-4732,20,Female,3.05,40.0,5.5,5.3,0.6,2,1,4,1,5,Yes,2,"Family Interaction, Exercise",1,No,No,1
+578-73-5589,19,Male,3.55,9.0,3.2,7.7,5.1,2,2,2,3,5,No,4,"Journaling, Meditation",5,Yes,No,4
+376-97-9137,21,Male,3.68,17.0,1.7,7.5,1.5,4,4,1,1,5,No,2,"Exercise, Journaling",3,Yes,Yes,4
+121-67-9770,21,Female,2.92,24.0,3.1,6.6,4.3,5,3,4,4,6,No,3,"Meditation, Journaling",3,Yes,Yes,1
+537-13-6762,23,Male,2.52,9.0,6.5,7.2,2.6,4,2,3,1,5,Yes,2,"Exercise, Meditation",5,No,No,3
+173-70-3512,18,Genderfluid,3.13,23.0,2.9,8.0,0.0,1,3,5,2,7,No,3,"Isolation, Substance Use",2,Yes,No,1
+221-66-5389,24,Female,2.56,42.0,4.7,7.8,0.0,4,4,5,4,6,Yes,4,"Exercise, Family Interaction",2,No,No,2
+651-85-2824,21,Female,3.91,25.0,2.5,5.4,4.7,5,5,1,1,5,Yes,1,"Journaling, Family Interaction",4,No,Yes,2
+724-61-2623,20,Female,2.97,27.0,5.5,7.8,2.3,3,1,2,4,5,No,4,"Exercise, Family Interaction",1,No,Yes,4
+347-25-4208,19,Male,2.72,12.0,5.4,6.7,2.3,3,3,1,3,5,No,3,"Exercise, Meditation",3,No,No,1
+716-33-7124,18,Male,2.99,19.0,7.7,6.9,6.1,1,2,5,1,5,No,5,"Family Interaction, Meditation",4,Yes,Yes,4
+337-94-9361,23,Male,2.23,21.0,3.6,6.9,7.5,3,3,3,2,5,No,4,"Exercise, Meditation",5,No,Yes,3
+897-98-3172,21,Male,2.41,22.0,5.3,6.6,3.2,4,5,5,4,6,No,5,"Family Interaction, Exercise",3,Yes,No,2
+386-99-3916,18,Female,3.5,38.0,4.2,8.2,3.0,1,1,4,5,6,No,5,"Meditation, Exercise",1,Yes,No,5
+526-47-2573,18,Male,2.57,31.0,6.6,6.7,5.5,5,3,5,4,6,No,3,"Family Interaction, Meditation",1,Yes,Yes,5
+811-33-4461,20,Male,2.38,14.0,2.6,5.5,0.0,1,5,5,5,8,Yes,3,"Overthinking, Excessive Screen Time",2,No,No,1
+577-02-7831,24,Male,3.17,27.0,5.5,6.3,4.7,1,2,4,2,7,No,1,"Isolation, Overthinking",4,Yes,No,1
+599-97-8174,20,Male,3.49,30.0,3.6,7.0,5.7,2,4,2,3,6,No,2,"Exercise, Family Interaction",5,Yes,Yes,5
+502-94-8037,18,Male,3.26,36.0,3.9,8.3,6.0,2,2,5,5,7,No,4,"Excessive Screen Time, Substance Use",3,No,No,1
+107-84-6181,21,Male,3.4,41.0,4.2,7.5,0.0,1,1,1,3,5,No,3,"Journaling, Family Interaction",1,No,Yes,2
+366-61-1857,20,Genderfluid,2.52,15.0,4.5,5.8,1.7,3,2,5,4,6,Yes,4,"Family Interaction, Exercise",3,Yes,No,3
+372-72-2322,18,Female,2.19,17.0,3.8,9.8,1.4,2,2,1,2,4,No,5,"Meditation, Family Interaction",5,No,Yes,3
+671-32-7672,21,Female,3.65,12.0,4.4,7.1,4.3,5,2,4,5,6,Yes,2,"Family Interaction, Meditation",3,No,No,4
+875-11-7909,21,Female,2.74,23.0,7.2,8.3,5.4,4,2,5,4,7,Yes,1,"Overthinking, Excessive Screen Time",4,Yes,Yes,2
+744-28-9884,22,Genderqueer,2.77,30.0,6.0,6.6,8.5,2,1,4,1,5,Yes,4,"Journaling, Meditation",2,No,No,1
+846-80-2635,25,Female,3.56,35.0,5.7,7.4,2.5,1,5,4,4,8,Yes,2,"Excessive Screen Time, Overthinking",3,No,Yes,1
+231-60-6613,23,Female,3.18,24.0,3.1,7.8,2.5,3,3,2,3,6,No,1,"Family Interaction, Journaling",2,Yes,Yes,4
+499-56-4811,20,Male,3.13,22.0,2.2,8.3,7.4,4,4,5,2,6,No,4,"Meditation, Family Interaction",5,Yes,Yes,4
+218-29-6698,19,Male,3.98,27.0,5.9,8.1,4.9,2,3,1,2,5,No,2,"Exercise, Journaling",2,Yes,No,1
+789-11-8047,26,Female,2.58,17.0,5.8,7.8,7.8,3,3,1,4,5,No,3,"Exercise, Journaling",3,No,No,1
+600-81-2221,21,Female,3.36,46.0,6.9,6.4,4.9,3,4,5,1,6,No,4,"Journaling, Meditation",3,Yes,No,2
+290-98-7153,21,Female,2.93,9.0,2.8,6.1,0.5,3,1,2,3,5,No,2,"Journaling, Family Interaction",1,No,No,4
+324-29-3731,21,Female,3.03,27.0,3.5,7.2,0.0,1,4,2,4,7,Yes,1,"Isolation, Substance Use",3,No,No,2
+655-26-0644,21,Male,3.66,45.0,0.7,7.9,0.0,5,1,2,4,5,No,2,"Meditation, Exercise",2,No,No,1
+391-30-9845,21,Female,3.15,25.0,3.2,6.5,6.0,3,3,1,2,5,No,3,"Family Interaction, Meditation",1,No,Yes,5
+652-68-2428,20,Female,3.17,23.0,6.0,8.1,7.6,4,1,4,3,5,No,4,"Exercise, Family Interaction",3,Yes,No,5
+556-49-2808,20,Female,3.44,21.0,3.1,8.5,9.5,2,5,2,1,5,Yes,4,"Family Interaction, Meditation",3,No,Yes,1
+136-61-4195,21,Female,2.72,23.0,5.3,5.7,6.5,4,4,1,2,4,No,4,"Meditation, Family Interaction",5,No,Yes,4
+348-08-4496,20,Male,2.48,39.0,3.6,5.8,7.5,1,5,1,4,7,Yes,3,"Substance Use, Excessive Screen Time",1,No,Yes,5
+876-38-2404,20,Male,2.38,3.0,4.6,6.6,2.3,1,3,4,2,7,Yes,1,"Substance Use, Excessive Screen Time",5,No,Yes,4
+591-08-8279,21,Male,1.92,40.0,1.7,7.2,0.5,4,4,5,2,6,No,4,"Meditation, Family Interaction",5,No,No,5
+421-78-2279,20,Male,3.93,11.0,4.2,6.2,6.6,5,3,5,5,7,Yes,1,"Isolation, Excessive Screen Time",5,No,Yes,4
+149-42-2247,24,Female,2.35,22.0,0.0,8.4,5.3,1,5,2,2,7,No,2,"Overthinking, Isolation",4,No,Yes,5
+183-07-7377,18,Female,2.79,21.0,3.6,7.3,4.3,1,3,2,2,6,No,1,"Meditation, Exercise",5,Yes,Yes,4
+835-54-9143,23,Female,2.76,31.0,0.7,6.8,5.2,4,4,4,3,7,No,1,"Substance Use, Isolation",2,Yes,No,2
+451-63-4332,23,Female,3.05,9.0,6.4,5.1,5.0,1,4,2,2,6,No,4,"Journaling, Exercise",3,Yes,Yes,4
+273-09-0415,18,Female,3.31,30.0,5.6,5.2,7.9,5,3,4,1,4,Yes,5,"Journaling, Exercise",4,Yes,Yes,2
+233-20-3736,20,Female,3.33,45.0,4.9,7.1,7.9,5,4,1,4,4,No,5,"Family Interaction, Meditation",5,No,No,2
+516-25-2354,20,Bigender,2.61,11.0,7.0,4.2,5.6,5,4,2,3,5,No,3,"Journaling, Meditation",3,No,No,1
+313-21-0463,18,Male,2.82,27.0,2.1,8.0,6.5,2,3,1,2,5,Yes,3,"Family Interaction, Exercise",1,Yes,No,2
+821-11-9235,19,Polygender,3.04,18.0,7.5,6.6,5.5,5,5,3,1,4,No,5,"Meditation, Journaling",1,Yes,Yes,3
+331-90-0090,19,Male,2.78,29.0,5.9,10.0,2.6,5,4,4,4,6,No,2,"Journaling, Family Interaction",3,Yes,Yes,2
+220-11-3284,25,Female,3.7,25.0,3.5,9.6,6.3,2,4,3,3,6,No,4,"Journaling, Family Interaction",2,Yes,Yes,4
+679-31-5831,23,Female,3.15,19.0,6.3,6.6,0.0,3,4,2,1,5,No,4,"Journaling, Exercise",3,Yes,Yes,2
+748-61-0034,24,Male,3.27,30.0,1.8,6.7,7.2,1,4,1,2,6,Yes,2,"Journaling, Family Interaction",3,Yes,No,4
+469-77-4569,22,Female,3.23,43.0,2.4,8.0,0.4,5,3,2,5,6,Yes,2,"Exercise, Meditation",4,No,No,4
+544-61-7082,19,Female,3.49,23.0,2.8,8.8,4.9,1,5,3,5,7,Yes,5,"Overthinking, Excessive Screen Time",1,Yes,No,3
+852-55-4127,20,Female,2.99,32.0,2.9,4.8,1.5,4,5,2,3,6,No,3,"Family Interaction, Meditation",1,No,No,2
+692-18-6999,22,Male,2.25,12.0,1.9,4.7,5.7,1,1,5,1,6,No,2,"Journaling, Family Interaction",5,No,Yes,2
+169-44-3996,19,Female,3.1,15.0,6.4,6.1,3.9,2,4,3,4,7,No,3,"Isolation, Overthinking",3,Yes,No,5
+255-13-7524,22,Male,2.57,30.0,3.5,7.5,0.0,1,4,2,1,6,Yes,1,"Journaling, Meditation",3,Yes,No,5
+459-73-3957,21,Male,2.64,40.0,4.7,7.4,5.3,1,1,1,5,5,No,4,"Journaling, Meditation",2,No,Yes,1
+344-44-2876,20,Male,3.19,29.0,2.9,8.1,2.3,1,5,2,3,6,Yes,5,"Exercise, Journaling",1,No,No,4
+809-78-0926,22,Genderfluid,3.52,22.0,0.4,5.4,6.6,3,2,1,2,4,No,4,"Journaling, Exercise",2,Yes,No,3
+473-59-3766,22,Male,2.91,25.0,4.5,4.0,4.0,3,2,5,1,5,Yes,5,"Exercise, Meditation",4,No,No,5
+306-40-3812,20,Non-binary,3.05,12.0,0.2,7.8,5.2,4,5,2,5,7,Yes,1,"Overthinking, Excessive Screen Time",5,Yes,No,2
+196-34-9654,23,Male,3.75,31.0,3.9,5.8,1.1,2,4,5,4,7,No,4,"Isolation, Excessive Screen Time",2,No,No,1
+326-62-8795,19,Female,3.02,34.0,1.3,4.4,2.2,1,2,3,3,7,No,1,"Substance Use, Excessive Screen Time",1,Yes,Yes,3
+368-30-8591,22,Female,4.0,20.0,8.0,7.0,2.6,1,3,1,2,5,No,5,"Family Interaction, Journaling",4,No,Yes,2
+259-58-1974,22,Female,3.18,20.0,5.8,7.8,6.6,1,3,3,1,6,Yes,2,"Exercise, Family Interaction",3,No,No,2
+694-99-6317,20,Male,2.02,28.0,4.2,6.7,9.0,1,1,1,4,5,No,4,"Meditation, Exercise",4,Yes,Yes,4
+735-88-1756,22,Male,3.28,21.0,6.5,6.3,1.6,3,5,5,2,7,Yes,1,"Overthinking, Isolation",2,Yes,No,4
+577-96-2463,18,Male,3.09,24.0,2.3,6.6,7.2,4,5,4,5,7,Yes,4,"Excessive Screen Time, Isolation",1,Yes,No,5
+808-66-1685,23,Female,3.54,46.0,5.1,6.4,0.0,5,2,2,5,5,No,4,"Family Interaction, Exercise",2,Yes,Yes,5
+336-14-7577,21,Male,3.24,23.0,4.4,5.2,0.4,2,4,5,4,7,No,4,"Overthinking, Substance Use",3,No,Yes,2
+389-61-8098,20,Male,2.83,21.0,4.5,5.9,1.1,1,5,1,5,7,Yes,3,"Isolation, Overthinking",3,Yes,Yes,2
+883-97-5612,23,Female,2.29,19.0,6.5,7.4,0.0,4,2,1,3,5,No,1,"Exercise, Family Interaction",1,No,Yes,5
+241-88-9615,20,Male,2.8,32.0,5.5,7.2,0.0,5,2,1,4,5,No,1,"Exercise, Journaling",5,Yes,No,5
+702-91-2228,18,Female,2.47,23.0,4.6,7.0,5.2,4,5,1,5,6,Yes,4,"Journaling, Exercise",4,Yes,Yes,2
+754-66-4385,18,Male,2.61,19.0,0.7,5.6,3.4,3,2,2,1,5,No,2,"Journaling, Meditation",4,No,Yes,3
+529-73-2230,22,Male,3.19,38.0,2.1,6.6,5.1,5,1,3,5,5,No,4,"Journaling, Family Interaction",3,Yes,Yes,2
+552-17-5578,18,Agender,3.73,39.0,3.8,4.2,6.1,4,1,4,3,5,No,3,"Meditation, Journaling",2,Yes,No,3
+615-46-9937,25,Male,3.1,19.0,4.2,7.0,4.8,3,5,2,2,5,No,5,"Exercise, Meditation",2,Yes,No,3
+627-88-9175,18,Male,2.3,6.0,1.7,8.5,6.0,4,4,1,2,5,No,3,"Journaling, Family Interaction",5,Yes,Yes,2
+384-45-8190,24,Female,3.12,35.0,8.8,5.0,3.8,4,1,2,5,5,No,2,"Family Interaction, Meditation",2,Yes,No,1
+830-78-6799,21,Male,3.5,18.0,7.0,6.1,0.4,5,1,5,2,4,No,4,"Meditation, Family Interaction",4,Yes,Yes,5
+442-22-8487,21,Male,2.6,33.0,5.2,7.2,7.2,3,5,1,5,7,No,1,"Isolation, Overthinking",2,Yes,Yes,4
+139-21-3471,20,Male,2.83,5.0,4.1,8.3,2.2,1,3,4,3,6,No,4,"Exercise, Journaling",5,Yes,Yes,2
+822-59-2803,22,Genderfluid,2.91,34.0,3.6,6.3,1.2,2,2,1,2,5,No,2,"Journaling, Family Interaction",4,No,Yes,3
+795-24-8301,21,Male,2.51,13.0,2.1,6.0,3.5,5,1,4,1,5,No,1,"Exercise, Meditation",2,No,No,2
+889-99-6609,23,Male,3.22,32.0,4.2,4.4,1.3,3,3,4,5,7,No,3,"Overthinking, Isolation",4,Yes,Yes,5
+174-93-0351,21,Male,2.84,25.0,4.5,6.9,2.7,4,4,3,2,5,No,5,"Journaling, Exercise",3,No,Yes,3
+123-20-9401,21,Male,3.11,15.0,1.5,9.3,5.0,3,3,3,3,5,No,5,"Exercise, Journaling",3,Yes,Yes,4
+792-95-3865,20,Female,2.46,21.0,4.7,7.1,5.0,2,5,2,3,6,No,4,"Journaling, Exercise",3,No,No,4
+893-18-6851,21,Male,2.68,32.0,3.7,6.8,1.3,2,4,2,1,5,No,3,"Meditation, Family Interaction",2,No,Yes,4
+344-90-2479,22,Female,3.26,26.0,0.2,7.2,2.5,1,4,4,3,7,No,2,"Isolation, Substance Use",5,No,No,1
+697-82-5034,18,Male,2.71,31.0,2.3,6.8,7.2,1,3,1,3,5,No,5,"Exercise, Meditation",4,No,No,3
+573-17-2120,18,Female,3.76,45.0,3.2,5.8,5.5,2,5,5,2,7,Yes,3,"Substance Use, Excessive Screen Time",1,No,Yes,3
+659-78-0605,22,Male,2.7,9.0,7.8,7.8,10.2,5,1,5,5,5,No,4,"Journaling, Family Interaction",3,No,No,1
+593-08-9597,21,Polygender,3.01,41.0,5.1,7.1,7.5,5,3,1,4,5,No,1,"Exercise, Family Interaction",3,Yes,No,3
+549-47-0917,21,Female,3.37,26.0,1.3,6.8,7.4,4,1,1,3,4,No,4,"Family Interaction, Exercise",1,No,No,1
+489-81-9800,21,Female,2.19,16.0,5.0,5.6,0.0,1,3,3,3,6,Yes,4,"Journaling, Family Interaction",1,Yes,No,2
+541-90-1529,22,Agender,2.02,12.0,0.9,8.4,6.3,4,1,5,4,6,No,3,"Meditation, Journaling",2,No,Yes,5
+629-88-8786,20,Female,2.14,23.0,6.2,7.6,3.8,1,3,4,3,6,No,5,"Meditation, Journaling",4,Yes,No,4
+447-25-1797,19,Male,3.53,34.0,3.1,6.1,2.3,2,4,2,2,6,Yes,3,"Family Interaction, Meditation",3,Yes,Yes,1
+813-56-9068,21,Male,2.62,24.0,3.8,8.0,4.5,5,2,3,2,5,No,1,"Family Interaction, Meditation",5,Yes,No,1
+730-09-1563,19,Male,4.0,40.0,6.7,6.2,6.8,5,4,5,4,6,No,3,"Family Interaction, Exercise",2,No,No,1
+266-11-0157,22,Male,2.62,10.0,1.4,5.9,5.5,2,1,1,3,5,No,2,"Exercise, Family Interaction",2,Yes,Yes,2
+192-96-8313,18,Female,2.99,25.0,1.2,5.9,1.4,4,5,5,3,6,No,4,"Family Interaction, Meditation",5,Yes,No,1
+897-18-9984,23,Female,3.67,12.0,2.8,4.7,6.2,4,4,4,5,6,No,5,"Meditation, Journaling",5,No,Yes,5
+639-08-6045,22,Female,3.9,29.0,6.1,7.4,2.1,3,2,3,3,6,No,1,"Family Interaction, Meditation",5,Yes,Yes,5
+608-31-7226,22,Female,3.93,34.0,1.0,4.6,4.7,1,1,1,2,4,Yes,4,"Exercise, Meditation",1,No,Yes,4
+345-50-9214,23,Male,3.5,21.0,0.0,5.3,3.1,4,4,4,1,5,No,3,"Meditation, Family Interaction",3,No,Yes,2
+556-41-4631,24,Female,3.41,0.0,3.1,4.3,3.3,2,3,2,1,5,No,2,"Journaling, Meditation",1,No,Yes,5
+709-69-0922,23,Male,3.2,27.0,5.1,6.7,6.3,4,5,3,1,5,No,3,"Meditation, Exercise",3,Yes,No,3
+745-98-9303,18,Male,3.29,29.0,6.4,6.6,0.9,5,1,4,1,4,Yes,4,"Meditation, Exercise",1,Yes,Yes,3
+181-96-3279,18,Male,2.62,29.0,3.1,6.4,9.8,1,4,4,3,8,No,1,"Overthinking, Excessive Screen Time",4,No,Yes,3
+129-32-7813,20,Male,2.49,37.0,3.2,5.5,0.0,3,1,1,3,4,Yes,5,"Journaling, Meditation",3,Yes,No,1
+521-41-0961,21,Male,2.9,14.0,6.3,5.4,2.2,1,3,2,5,6,No,4,"Exercise, Family Interaction",2,Yes,No,1
+626-36-8884,22,Female,2.81,32.0,0.3,7.4,5.1,5,2,4,3,6,No,1,"Family Interaction, Journaling",3,No,Yes,3
+600-89-4992,20,Female,2.67,37.0,3.2,6.1,5.8,5,4,3,1,4,Yes,4,"Journaling, Meditation",3,Yes,No,4
+143-10-3794,21,Female,3.25,7.0,4.4,7.2,3.7,5,1,4,4,5,No,2,"Family Interaction, Exercise",3,Yes,Yes,4
+386-97-0412,19,Male,3.38,28.0,4.9,5.7,3.8,5,1,5,4,5,No,3,"Journaling, Meditation",4,Yes,Yes,1
+569-33-7852,20,Female,2.94,20.0,3.0,7.0,5.2,2,1,3,2,4,No,5,"Meditation, Family Interaction",1,Yes,Yes,3
+593-06-7718,18,Male,3.64,24.0,4.1,8.4,3.3,3,2,3,2,6,No,1,"Meditation, Journaling",2,No,Yes,4
+663-15-0506,19,Male,2.33,28.0,0.0,7.5,8.2,5,1,4,3,4,Yes,5,"Journaling, Exercise",1,No,Yes,1
+384-12-1816,18,Male,2.8,20.0,2.7,6.3,6.5,5,5,1,4,5,No,5,"Exercise, Journaling",1,Yes,No,3
+527-24-3188,19,Male,2.54,18.0,4.9,7.1,6.6,4,5,3,1,5,Yes,5,"Family Interaction, Exercise",5,No,No,2
+544-98-6919,23,Male,1.97,25.0,2.0,6.5,1.1,3,1,5,1,6,No,1,"Family Interaction, Journaling",4,No,Yes,3
+836-77-4994,19,Male,2.86,14.0,4.1,6.8,3.8,1,5,1,1,6,No,1,"Journaling, Family Interaction",5,No,No,3
+826-89-7993,26,Genderfluid,2.84,14.0,4.9,6.4,3.1,3,4,1,3,5,No,5,"Meditation, Family Interaction",4,Yes,No,5
+681-15-6754,22,Female,3.66,32.0,3.3,6.6,1.0,3,5,1,3,6,No,3,"Journaling, Family Interaction",1,Yes,No,5
+714-33-5373,21,Male,3.22,14.0,4.3,7.1,5.1,3,1,3,5,5,No,4,"Meditation, Exercise",1,Yes,No,2
+849-54-1252,19,Female,2.39,32.0,2.1,5.6,2.4,5,3,1,1,3,No,5,"Exercise, Meditation",4,No,Yes,2
+862-68-5364,22,Female,3.83,30.0,3.6,5.6,6.0,5,4,4,1,5,No,2,"Family Interaction, Meditation",1,Yes,No,3
